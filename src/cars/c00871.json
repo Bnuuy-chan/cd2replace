@@ -1,0 +1,53 @@
+{
+    "rq": 68,
+    "make": [
+        "Mercedes-Benz"
+    ],
+    "model": "W125 Rekordwagen",
+    "modelYear": 1937,
+    "country": "DE",
+    "topSpeed": 269,
+    "0to60": 4.5,
+    "handling": 25,
+    "driveType": "RWD",
+    "tyreType": "Drag",
+    "tags": [
+        "Unique",
+        "Ultra Expensive",
+        "Innovative"
+    ],
+    "isPrize": true,
+    "weight": 1185,
+    "gc": "Low",
+    "seatCount": 1,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 121.21,
+    "ola": 105,
+    "description": "In 1937, Piloted by Otto Wilhelm Rudolf Caracciola, this thing hit 269mph on a german autobahn, a record which was only broken in 2017 by a Koenigsegg Agera RS.",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1101952931894394921/W125RekordLol.png",
+"333TopSpeed": 271,
+"3330to60": 4.3,
+"333Handling": 26,
+
+"666TopSpeed": 273,
+"6660to60": 4,
+"666Handling": 27,
+
+"699TopSpeed": 273,
+"6990to60": 3.8,
+"699Handling": 28,
+
+"969TopSpeed": 275,
+"9690to60": 4,
+"969Handling": 28,
+
+"996TopSpeed": 275,
+"9960to60": 3.8,
+"996Handling": 27,
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1101966102428389488/rekordwagen.png",
+    "creator": "Havvy"
+}

@@ -1,0 +1,50 @@
+{
+    "rq": 32,
+    "make": "Porsche",
+    "model": "924 Turbo",
+    "modelYear": 1978,
+    "country": "DE",
+    "topSpeed": 142,
+    "0to60": 6.9,
+    "handling": 74,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [
+        "Street Racer",
+        "Grand Tourer"
+    ],
+    "isPrize": false,
+    "weight": 1294,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 49.88,
+    "ola": 67.44,
+    "description": "Entry level front-engined porsche with a Turbo? Sounds like fun.",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1114188850324062259/Turbo924.png",
+"333TopSpeed": 146,
+"3330to60": 6.6,
+"333Handling": 76,
+
+"666TopSpeed": 149,
+"6660to60": 6.2,
+"666Handling": 79,
+
+"699TopSpeed": 149,
+"6990to60": 5.9,
+"699Handling": 82,
+
+"969TopSpeed": 153,
+"9690to60": 6.2,
+"969Handling": 82,
+
+"996TopSpeed": 153,
+"9960to60": 5.9,
+"996Handling": 79,
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1114189116410703872/Turbo924.png",
+    "creator": "Bnuuy"
+}

@@ -1,0 +1,49 @@
+{
+    "rq": 103,
+    "make": "Lamborghini",
+    "model": "Urus Off-Road Package",
+    "modelYear": 2018,
+    "country": "IT",
+    "topSpeed": 186,
+    "0to60": 3.4,
+    "handling": 88,
+    "driveType": "4WD",
+    "tyreType": "All-Surface",
+    "tags": ["Extreme Juggernaut","The Tyrol Tour"],
+    "isPrize": false,
+	
+    "weight": 2285,
+    "gc": "High",
+    "seatCount": 5,
+    "bodyStyle": "SUV",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 71.58,
+    "ola": 82.35,
+    "description": "The ultimate Lamborghini SUV now suited for off-road use and commuting.",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1144279418357944400/UrusOffroadPack.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1144279595500187688/UrusOffroad.png",
+    "creator": "Bnuuy",
+
+"333TopSpeed": 189, 
+"3330to60": 3.2, 
+"333Handling": 91,
+
+"666TopSpeed": 192, 
+"6660to60": 3.1, 
+"666Handling": 94,
+
+"699TopSpeed": 192, 
+"6990to60": 2.9, 
+"699Handling": 98,
+
+"969TopSpeed": 194, 
+"9690to60": 3.1, 
+"969Handling": 98,
+
+"996TopSpeed": 194, 
+"9960to60": 2.9, 
+"996Handling": 94
+}

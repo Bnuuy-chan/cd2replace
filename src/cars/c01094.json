@@ -1,0 +1,51 @@
+{
+    "rq": 23,
+    "make": "Porsche",
+    "model": "924",
+    "modelYear": 1976,
+    "country": "DE",
+    "topSpeed": 120,
+    "0to60": 9.6,
+    "handling": 70,
+    "driveType": "RWD",
+    "tyreType": "Standard",
+    "tags": [
+        "Oddity",
+        "Street Racer",
+        "Grand Tourer"
+    ],
+    "isPrize": false,
+    "weight": 1095,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 38.71,
+    "ola": 63.33,
+    "description": "This is the first Porsche with the FR layout ever made.",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1114188756338102373/Normal924.png",
+"333TopSpeed": 124,
+"3330to60": 9.1,
+"333Handling": 72,
+
+"666TopSpeed": 129,
+"6660to60": 8.6,
+"666Handling": 75,
+
+"699TopSpeed": 129,
+"6990to60": 8.2,
+"699Handling": 78,
+
+"969TopSpeed": 133,
+"9690to60": 8.6,
+"969Handling": 78,
+
+"996TopSpeed": 133,
+"9960to60": 8.2,
+"996Handling": 75,
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1114189061519847465/Normal924.png",
+    "creator": "Bnuuy"
+}

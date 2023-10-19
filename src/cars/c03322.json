@@ -1,0 +1,49 @@
+{
+    "rq": 33,
+    "make": "Holden",
+    "model": "Commodore Berlina LPG",
+    "modelYear": 2012,
+    "country": "AU",
+    "topSpeed": 137,
+    "0to60": 7.6,
+    "handling": 73,
+    "driveType": "RWD",
+    "tyreType": "Standard",
+    "tags": ["The Rest of the Best: 2023","Rest of The World"],
+    "isPrize": false,
+	
+    "weight": 1756,
+    "gc": "Low",
+    "seatCount": 5,
+    "bodyStyle": "Sedan",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Alternative",
+    "mra": 62.81,
+    "ola": 76.32,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1080936651179687936/Commodore_Berlina_LPG_12.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1080936832696598528/commodoreberlinaLPG.png",
+    "creator": "Macan",
+
+"333TopSpeed": 141,
+"3330to60": 7.2,
+"333Handling": 75,
+
+"666TopSpeed": 145,
+"6660to60": 6.8,
+"666Handling": 78,
+
+"699TopSpeed": 145,
+"6990to60": 6.5,
+"699Handling": 81,
+
+"969TopSpeed": 148,
+"9690to60": 6.8,
+"969Handling": 81,
+
+"996TopSpeed": 148,
+"9960to60": 6.5,
+"996Handling": 78
+}

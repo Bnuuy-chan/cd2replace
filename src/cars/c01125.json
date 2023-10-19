@@ -1,0 +1,49 @@
+{
+    "rq": 98,
+    "make": "Porsche",
+    "model": "Panamera Turbo S",
+    "modelYear": 2020,
+    "country": "DE",
+    "topSpeed": 196,
+    "0to60": 2.8,
+    "handling": 92,
+    "driveType": "4WD",
+    "tyreType": "Performance",
+    "tags": ["Super Sedan"],
+    "isPrize": false,
+	
+    "weight": 2080,
+    "gc": "Medium",
+    "seatCount": 4,
+    "bodyStyle": "Sedan",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 81.22,
+    "ola": 84.33,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1152588060068941845/971BPanameraTurboS.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1152588173122228364/971BPanameraTurboS.png",
+
+"333TopSpeed": 199,
+"3330to60": 2.7,
+"333Handling": 95,
+
+"666TopSpeed": 201,
+"6660to60": 2.5,
+"666Handling": 98,
+
+"699TopSpeed": 201,
+"6990to60": 2.4,
+"699Handling": 102,
+
+"969TopSpeed": 204,
+"9690to60": 2.5,
+"969Handling": 102,
+
+"996TopSpeed": 204,
+"9960to60": 2.4,
+"996Handling": 98,
+    "creator": "Bnuuy"
+}

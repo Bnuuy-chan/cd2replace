@@ -1,0 +1,49 @@
+{
+    "rq": 53,
+    "make": "Lamborghini",
+    "model": "Bravo P 300 Concept",
+    "modelYear": 1974,
+    "country": "IT",
+    "topSpeed": 169,
+    "0to60": 5.0,
+    "handling": 75,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": ["Concept","Unique","Ultra Expensive"],
+    "isPrize": true,
+	
+    "weight": 1085,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Middle",
+    "fuelType": "Petrol",
+    "mra": 78.5,
+    "ola": 92.66,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1151192643909472366/BravoLamborgambor.png",
+	"racehud": "https://media.discordapp.net/attachments/995376525119586356/1020331532637966386/Lamborghini_Bravo_P_300.png",
+
+"333TopSpeed": 172,
+"3330to60": 4.8,
+"333Handling": 77,
+
+"666TopSpeed": 175,
+"6660to60": 4.5,
+"666Handling": 80,
+
+"699TopSpeed": 175,
+"6990to60": 4.3,
+"699Handling": 83,
+
+"969TopSpeed": 178,
+"9690to60": 4.5,
+"969Handling": 83,
+
+"996TopSpeed": 178,
+"9960to60": 4.3,
+"996Handling": 80,
+    "creator": "Bnuuy"
+}

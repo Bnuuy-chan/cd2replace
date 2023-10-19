@@ -1,0 +1,18 @@
+{
+	"trackName": "G-Force Test (Ice)",
+	"weather": "Sunny",
+	"surface": "Ice",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/772435323795013632/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/807100139025989642/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 0,
+		"0to60": 50,
+		"handling": 100,
+		"weight": 30,
+		"mra": 0,
+		"ola": 25
+	}
+}

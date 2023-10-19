@@ -1,0 +1,49 @@
+{
+    "rq": 68,
+    "make": "TVR",
+    "model": "Chimaera 500",
+    "modelYear": 1994,
+    "country": "GB",
+    "topSpeed": 163,
+    "0to60": 4.5,
+    "handling": 81,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1070,
+    "gc": "Medium",
+    "seatCount": 2,
+    "bodyStyle": "Convertible",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 66.18,
+    "ola": 84.44,
+    "description": "HOW MANY ENGINES CAN YOU MAKE OUT OF A ROVER V8????",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1144375140302467203/TVR_Chimaera_500.png",
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1144375442212655175/TVR_Chimaera_500.png",
+    "creator": "Based",
+
+"333TopSpeed": 166,
+"3330to60": 4.3,
+"333Handling": 84,
+
+"666TopSpeed": 169,
+"6660to60": 4.1,
+"666Handling": 86,
+
+"699TopSpeed": 169,
+"6990to60": 3.8,
+"699Handling": 90,
+
+"969TopSpeed": 173,
+"9690to60": 4.1,
+"969Handling": 90,
+
+"996TopSpeed": 173,
+"9960to60": 3.8,
+"996Handling": 86
+}

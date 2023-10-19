@@ -1,0 +1,49 @@
+{
+    "rq": 44,
+    "make": "Acura",
+    "model": "RSX Type-S",
+    "modelYear": 2005,
+    "country": "US",
+    "topSpeed": 136,
+    "0to60": 6.5,
+    "handling": 77,
+    "driveType": "FWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1288,
+    "gc": "Medium",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 64.36,
+    "ola": 86.15,
+    "description": "This facelift adjusted the suspension springs, body roll and overall handling of the 2002 version. Small headlight and taillight changes are also noticeable.",
+    "card": "https://media.discordapp.net/attachments/864423523916972052/923531157612679208/Acura_RSX-Type_S_2005.png",
+	"racehud": "https://media.discordapp.net/attachments/995376525119586356/1037025605574725743/Acura_RSX_Type-S.png",
+    "creator": "Based",
+
+"333TopSpeed": 140, 
+"3330to60": 6.2, 
+"333Handling": 80,
+
+"666TopSpeed": 144, 
+"6660to60": 5.9, 
+"666Handling": 82,
+
+"699TopSpeed": 144, 
+"6990to60": 5.5, 
+"699Handling": 85,
+
+"969TopSpeed": 147, 
+"9690to60": 5.9, 
+"969Handling": 85,
+
+"996TopSpeed": 147, 
+"9960to60": 5.5, 
+"996Handling": 82
+}

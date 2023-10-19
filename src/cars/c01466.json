@@ -1,0 +1,53 @@
+{
+    "rq": 88,
+    "make": [
+        "Stapleton Auto Works",
+        "Cadillac"
+    ],
+    "model": "LSXcalade",
+    "modelYear": 2007,
+    "country": "US",
+    "topSpeed": 164,
+    "0to60": 2.2,
+    "handling": 30,
+    "driveType": "4WD",
+    "tyreType": "Drag",
+    "tags": [
+        "Tuner",
+        "Unique"
+    ],
+    "isPrize": true,
+    "weight": 2900,
+    "gc": "Medium",
+    "seatCount": 4,
+    "bodyStyle": "SUV",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 78.57,
+    "ola": 90.91,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1101943443271467059/StapletonAutosLSXcalade.png",
+"333TopSpeed": 167,
+"3330to60": 2.1,
+"333Handling": 31,
+
+"666TopSpeed": 170,
+"6660to60": 2,
+"666Handling": 32,
+
+"699TopSpeed": 170,
+"6990to60": 1.9,
+"699Handling": 33,
+
+"969TopSpeed": 174,
+"9690to60": 2,
+"969Handling": 33,
+
+"996TopSpeed": 174,
+"9960to60": 1.9,
+"996Handling": 32,
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1101965944747728957/Stapleton.png",
+    "creator": "Aqo"
+}

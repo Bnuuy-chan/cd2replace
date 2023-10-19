@@ -1,0 +1,49 @@
+{
+    "rq": 76,
+    "make": "Vector",
+    "model": "W8 Twin Turbo",
+    "modelYear": 1992,
+    "country": "US",
+    "topSpeed": 218,
+    "0to60": 4.0,
+    "handling": 82,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": ["Supercar", "Unique"],
+    "isPrize": false,
+    
+    "weight": 1644,
+    "gc": "Medium",
+    "seatCount": 2,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Middle",
+    "fuelType": "Petrol",
+    "mra": 93.02,
+    "ola": 95,
+    "description": "The Vector brand underdelivered a lot of the things that it promised, but even that did not stop this car from becoming an icon of the 90's",
+    "card": "https://media.discordapp.net/attachments/819199720249360384/1031209518018867271/Vector_W8_Twin-Turbo.png",
+    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1031210652288684073/W8_Hud.png",
+    "creator": "Biszkoptowiec",
+
+    "333TopSpeed": 220,
+    "3330to60": 3.8,
+    "333Handling": 85,
+
+    "666TopSpeed": 223,
+    "6660to60": 3.6,
+    "666Handling": 87,
+
+    "996TopSpeed": 225,
+    "9960to60": 3.4,
+    "996Handling": 87,
+
+    "969TopSpeed": 225,
+    "9690to60": 3.6,
+    "969Handling": 91,
+
+    "699TopSpeed": 223,
+    "6990to60": 3.4,
+    "699Handling": 91
+}

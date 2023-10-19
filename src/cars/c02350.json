@@ -1,0 +1,49 @@
+{
+    "rq": 64,
+    "make": "TVR",
+    "model": "Griffith 430",
+    "modelYear": 1991,
+    "country": "GB",
+    "topSpeed": 160,
+    "0to60": 4.8,
+    "handling": 80,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1050,
+    "gc": "Medium",
+    "seatCount": 2,
+    "bodyStyle": "Convertible",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 65.75,
+    "ola": 87.50,
+    "description": "All of the lights ttuutut papap tututuu paapa papappapttaaaa tppapa all of the lights!",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1144374470312738846/TVR_Griffith_430.png",
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1144374623601967254/TVR_Griffith_430.png",
+    "creator": "Based",
+
+"333TopSpeed": 163, 
+"3330to60": 4.6, 
+"333Handling": 83,
+
+"666TopSpeed": 167, 
+"6660to60": 4.3, 
+"666Handling": 85,
+
+"699TopSpeed": 167, 
+"6990to60": 4.1, 
+"699Handling": 89,
+
+"969TopSpeed": 170, 
+"9690to60": 4.3, 
+"969Handling": 89,
+
+"996TopSpeed": 170, 
+"9960to60": 4.1, 
+"996Handling": 85
+}

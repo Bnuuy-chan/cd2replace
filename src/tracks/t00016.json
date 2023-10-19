@@ -1,0 +1,18 @@
+{
+	"trackName": "1 Mile Drag (Sunny)",
+	"weather": "Sunny",
+	"surface": "Drag",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/741242291254984704/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/806793122754330654/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 70,
+		"0to60": 70,
+		"handling": 0,
+		"weight": 0,
+		"mra": 100,
+		"ola": 0
+	}
+}

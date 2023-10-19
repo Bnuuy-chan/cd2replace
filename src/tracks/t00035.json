@@ -1,0 +1,18 @@
+{
+	"trackName": "El Condor (Dirt)",
+	"weather": "Sunny",
+	"surface": "Dirt",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/794172994981199892/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/809368754723094538/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 0,
+		"0to60": 80,
+		"handling": 100,
+		"weight": 0,
+		"mra": 50,
+		"ola": 10
+	}
+}

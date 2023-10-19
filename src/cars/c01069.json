@@ -1,0 +1,49 @@
+{
+    "rq": 55,
+    "make": "Porsche",
+    "model": "911 Carrera RS 2.7 Touring",
+    "modelYear": 1973,
+    "country": "DE",
+    "topSpeed": 152,
+    "0to60": 5.5,
+    "handling": 76,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": ["Track Day"],
+    "isPrize": false,
+	
+    "weight": 993,
+    "gc": "Medium",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Rear",
+    "fuelType": "Petrol",
+    "mra": 74.67,
+    "ola": 71.43,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1110672315265589330/Porsche911RS2.7Touring1973.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1110672763544412221/Porsche911RS2.7Touring1973.png",
+    "creator": "Bnuuy",
+
+"333TopSpeed": 155,
+"3330to60": 5.2,
+"333Handling": 79,
+
+"666TopSpeed": 159,
+"6660to60": 5,
+"666Handling": 81,
+
+"699TopSpeed": 159,
+"6990to60": 4.7,
+"699Handling": 84,
+
+"969TopSpeed": 162,
+"9690to60": 5,
+"969Handling": 84,
+
+"996TopSpeed": 162,
+"9960to60": 4.7,
+"996Handling": 81
+}

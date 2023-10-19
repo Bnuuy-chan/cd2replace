@@ -1,0 +1,49 @@
+{
+    "rq": 58,
+    "make": "Porsche",
+    "model": "911 Targa",
+    "modelYear": 2001,
+    "country": "DE",
+    "topSpeed": 177,
+    "0to60": 5.0,
+    "handling": 82,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1485,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Convertible",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Rear",
+    "fuelType": "Petrol",
+    "mra": 68.92,
+    "ola": 83.33,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1152622221253156945/996911Targa.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1152622352450998352/996911Targa.png",
+
+"333TopSpeed": 180,
+"3330to60": 4.8,
+"333Handling": 85,
+
+"666TopSpeed": 183,
+"6660to60": 4.5,
+"666Handling": 87,
+
+"699TopSpeed": 183,
+"6990to60": 4.3,
+"699Handling": 91,
+
+"969TopSpeed": 186,
+"9690to60": 4.5,
+"969Handling": 91,
+
+"996TopSpeed": 186,
+"9960to60": 4.3,
+"996Handling": 87,
+    "creator": "Bnuuy"
+}

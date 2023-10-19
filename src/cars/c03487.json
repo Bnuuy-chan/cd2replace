@@ -1,0 +1,49 @@
+{
+    "rq": 78,
+    "make": "Aston Martin",
+    "model": "Vanquish Zagato",
+    "modelYear": 2017,
+    "country": "GB",
+    "topSpeed": 203,
+    "0to60": 3.5,
+    "handling": 88,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": ["The Midlands Cruise","Unique","Grand Tourer"],
+    "isPrize": false,
+	
+    "weight": 1745,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 88,
+    "ola": 90,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1088069397626761256/AMVanquishZagato.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1088071034470666250/AMVanquishZagato.png",
+    "creator": "Bnuuy",
+
+"333TopSpeed": 206,
+"3330to60": 3.3,
+"333Handling": 91,
+
+"666TopSpeed": 208,
+"6660to60": 3.1,
+"666Handling": 94,
+
+"699TopSpeed": 208,
+"6990to60": 3,
+"699Handling": 98,
+
+"969TopSpeed": 211,
+"9690to60": 3.1,
+"969Handling": 98,
+
+"996TopSpeed": 211,
+"9960to60": 3,
+"996Handling": 94
+}

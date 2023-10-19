@@ -1,0 +1,50 @@
+{
+    "rq": 49,
+    "make": "Nissan",
+    "model": "Titan SL 4x2 Crew Cab",
+    "modelYear": 2017,
+    "country": "JP",
+    "topSpeed": 115,
+    "0to60": 6.4,
+    "handling": 69,
+    "driveType": "RWD",
+    "tyreType": "All-Surface",
+    "tags": ["The Japanese Odyssey"],
+    
+    "isPrize": false,
+    "weight": 2610,
+    "gc": "High",
+    "seatCount": 6,
+    "bodyStyle": "Pickup",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 57.14,
+    "ola": 80,
+    "description": "A petrol Titan with a physical impediment of not having any power sent to the front wheels.",
+    "card": "https://media.discordapp.net/attachments/819199720249360384/970056552486674562/IMG_4927.png",
+
+    "333TopSpeed": 120,
+    "3330to60": 6.1,
+    "333Handling": 67,
+
+    "666TopSpeed": 124,
+    "6660to60": 5.8,
+    "666Handling": 69,
+
+    "996TopSpeed": 129,
+    "9960to60": 5.4,
+    "996Handling": 69,
+
+    "969TopSpeed": 129,
+    "9690to60": 5.8,
+    "969Handling": 72,
+
+    "699TopSpeed": 124,
+    "6990to60": 5.4,
+    "699Handling": 72,
+
+    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1017504641325465671/Nissan_Titan_SL_Crew_Cab_4x2.png",
+    "creator": "Spence"
+}

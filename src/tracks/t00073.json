@@ -1,0 +1,18 @@
+{
+	"trackName": "Nurburgring Nordschleife (Sunny)",
+	"weather": "Sunny",
+	"surface": "Track",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/741242563159130132/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/806793632656261140/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 25,
+		"0to60": 100,
+		"handling": 60,
+		"weight": 0,
+		"mra": 100,
+		"ola": 0
+	}
+}

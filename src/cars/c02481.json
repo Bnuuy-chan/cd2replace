@@ -1,0 +1,49 @@
+{
+    "rq": 63,
+    "make": "TVR",
+    "model": "Chimaera 430",
+    "modelYear": 1992,
+    "country": "GB",
+    "topSpeed": 160,
+    "0to60": 4.8,
+    "handling": 79,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1060,
+    "gc": "Medium",
+    "seatCount": 2,
+    "bodyStyle": "Convertible",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 65.75,
+    "ola": 87.5,
+    "description": "There's way too many engines man who did this?",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1144375019544256662/TVR_Chimaera_430.png",
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1144375344229523517/TVR_Chimaera_430.png",
+    "creator": "Based",
+
+"333TopSpeed": 163, 
+"3330to60": 4.6, 
+"333Handling": 82,
+
+"666TopSpeed": 167, 
+"6660to60": 4.3, 
+"666Handling": 84,
+
+"699TopSpeed": 167, 
+"6990to60": 4.1, 
+"699Handling": 88,
+
+"969TopSpeed": 170, 
+"9690to60": 4.3, 
+"969Handling": 88,
+
+"996TopSpeed": 170, 
+"9960to60": 4.1, 
+"996Handling": 84
+}

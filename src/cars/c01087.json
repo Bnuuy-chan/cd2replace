@@ -1,0 +1,49 @@
+{
+    "rq": 78,
+    "make": "Porsche",
+    "model": "911 Turbo S",
+    "modelYear": 1996,
+    "country": "DE",
+    "topSpeed": 188,
+    "0to60": 3.7,
+    "handling": 85,
+    "driveType": "4WD",
+    "tyreType": "Performance",
+    "tags": ["Supercar"],
+    "isPrize": false,
+	
+    "weight": 1500,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Rear",
+    "fuelType": "Petrol",
+    "mra": 74.3,
+    "ola": 74.75,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1149307356753182721/993911TurboS.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1149307460482514975/993911TurboS.png",
+
+"333TopSpeed": 191,
+"3330to60": 3.5,
+"333Handling": 88,
+
+"666TopSpeed": 194,
+"6660to60": 3.3,
+"666Handling": 91,
+
+"699TopSpeed": 194,
+"6990to60": 3.1,
+"699Handling": 94,
+
+"969TopSpeed": 196,
+"9690to60": 3.3,
+"969Handling": 94,
+
+"996TopSpeed": 196,
+"9960to60": 3.1,
+"996Handling": 91,
+    "creator": "Bnuuy"
+}

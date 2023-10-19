@@ -1,0 +1,18 @@
+{
+	"trackName": "Fast Circuit (Rainy)",
+	"weather": "Rainy",
+	"surface": "Track",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/772757538789785600/unknown.png",
+	"map": "https://media.discordapp.net/attachments/800047734035841037/840234605276954624/Fast.png",
+	
+	"specsDistr": {
+		"topSpeed": 25,
+		"0to60": 85,
+		"handling": 85,
+		"weight": 0,
+		"mra": 55,
+		"ola": 5
+	}
+}

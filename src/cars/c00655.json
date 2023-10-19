@@ -1,0 +1,49 @@
+{
+    "rq": 94,
+    "make": "Lamborghini",
+    "model": "Huracan EVO",
+    "modelYear": 2019,
+    "country": "IT",
+    "topSpeed": 203,
+    "0to60": 2.7,
+    "handling": 93,
+    "driveType": "4WD",
+    "tyreType": "Performance",
+    "tags": ["Supercar"],
+    "isPrize": false,
+	
+    "weight": 1639,
+    "gc": "Low",
+    "seatCount": 2,
+    "bodyStyle": "Coupe",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Middle",
+    "fuelType": "Petrol",
+    "mra": 85.23,
+    "ola": 75.24,
+    "description": "Fake Evo.",
+    "card": "https://media.discordapp.net/attachments/819199720249360384/1006586902763278386/LamborghiniHuracanEVO.png",
+	"racehud": "https://media.discordapp.net/attachments/995376525119586356/1006587307220017173/LamborghiniHuracanEVO.png",
+    "creator": "Spence",
+
+"333TopSpeed": 206, 
+"3330to60": 2.6, 
+"333Handling": 96,
+
+"666TopSpeed": 208, 
+"6660to60": 2.4, 
+"666Handling": 99,
+
+"699TopSpeed": 208, 
+"6990to60": 2.3, 
+"699Handling": 103,
+
+"969TopSpeed": 211, 
+"9690to60": 2.4, 
+"969Handling": 103,
+
+"996TopSpeed": 211, 
+"9960to60": 2.3, 
+"996Handling": 99
+}

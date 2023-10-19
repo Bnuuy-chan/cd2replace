@@ -1,0 +1,18 @@
+{
+	"trackName": "Quarter Mile Drag (Snowy)",
+	"weather": "Sunny",
+	"surface": "Snow",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/773114664317878282/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/806793122754330654/unknown.png",
+
+	"specsDistr": {
+		"topSpeed": 1,
+		"0to60": 100,
+		"handling": 0,
+		"weight": 0,
+		"mra": 30,
+		"ola": 5
+	}
+}

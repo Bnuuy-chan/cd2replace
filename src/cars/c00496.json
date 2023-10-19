@@ -1,0 +1,51 @@
+{
+    "rq": 28,
+    "make": "General Motors",
+    "model": "Impact Land Speed Record",
+    "modelYear": 1994,
+    "country": "US",
+    "topSpeed": 183,
+    "0to60": 7.4,
+    "handling": 25,
+    "driveType": "FWD",
+    "tyreType": "Drag",
+    "tags": [
+        "Eco-Friendly",
+        "Innovative",
+        "Unique"
+    ],
+    "isPrize": false,
+    "weight": 955,
+    "gc": "Low",
+    "seatCount": 2,
+    "bodyStyle": "Coupe",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Electric",
+    "mra": 39.78,
+    "ola": 75.68,
+    "description": "In 1994, a modified GM Impact concept car broke an electric production car land speed record by reaching 183mph, a figure that still stands well 25 years on and counting. The insanely aerodynamic body shell with a drag coefficient of 0.19 definitely helped here.",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1101954406712352778/GMImpactLSR.png",
+"333TopSpeed": 186,
+"3330to60": 7,
+"333Handling": 26,
+
+"666TopSpeed": 189,
+"6660to60": 6.7,
+"666Handling": 27,
+
+"699TopSpeed": 189,
+"6990to60": 6.3,
+"699Handling": 28,
+
+"969TopSpeed": 192,
+"9690to60": 6.7,
+"969Handling": 28,
+
+"996TopSpeed": 192,
+"9960to60": 6.3,
+"996Handling": 27,
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1101966124767248464/impact.png",
+    "creator": "Keanny"
+}

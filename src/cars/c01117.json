@@ -1,0 +1,50 @@
+{
+    "rq": 91,
+    "make": "Porsche",
+    "model": "Macan GTS",
+    "modelYear": 2019,
+    "country": "DE",
+    "topSpeed": 164,
+    "0to60": 4.2,
+    "handling": 84,
+    "driveType": "4WD",
+    "tyreType": "All-Surface",
+    "tags": [],
+    "isPrize": false,
+    
+    "weight": 1910,
+    "gc": "High",
+    "seatCount": 5,
+    "bodyStyle": "SUV",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 65.63,
+    "ola": 75,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1077328590443655340/MacanGTS2019.png",
+
+    "333TopSpeed": 167,
+    "3330to60": 4.0,
+    "333Handling": 87,
+
+    "666TopSpeed": 170,
+    "6660to60": 3.8,
+    "666Handling": 90,
+
+    "699TopSpeed": 170,
+    "6990to60": 3.6,
+    "699Handling": 93,
+
+    "969TopSpeed": 174,
+    "9690to60": 3.8,
+    "969Handling": 93,
+
+    "996TopSpeed": 174,
+    "9960to60": 3.6,
+    "996Handling": 90,
+
+    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1017879438664417341/Porsche_Macan_GTS.png",
+    "creator": "Havvy"
+}

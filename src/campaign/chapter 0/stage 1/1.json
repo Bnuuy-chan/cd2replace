@@ -1,0 +1,25 @@
+{
+    "raceName": "Chapter 0: The Learning Curve (Stage 1)",
+    "description": "placeholder text",
+
+    "requirements": {
+        "rq": 300
+    },
+
+	"hand": [],
+	"tunes": [],
+    "tracksets": [],
+
+    "primaryRewards": {
+        "money": 1000,
+        "fuseTokens": 0,
+        "car": "",
+        "pack": ""
+    },
+	"secondaryRewards": {
+        "money": 5000,
+        "fuseTokens": 0,
+        "car": "",
+        "pack": ""
+    }
+}

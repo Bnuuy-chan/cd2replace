@@ -1,0 +1,49 @@
+{
+    "rq": 61,
+    "make": "Porsche",
+    "model": "911 Carrera",
+    "modelYear": 1997,
+    "country": "DE",
+    "topSpeed": 174,
+    "0to60": 4.8,
+    "handling": 84,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": [],
+    "isPrize": false,
+	
+    "weight": 1389,
+    "gc": "Low",
+    "seatCount": 4,
+    "bodyStyle": "Coupe",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Rear",
+    "fuelType": "Petrol",
+    "mra": 70.9,
+    "ola": 79.6,
+    "description": "",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1152609826304696401/996911Carrera97.png",
+	"racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1152610023667675276/996911Carrera97.png",
+
+"333TopSpeed": 177,
+"3330to60": 4.6,
+"333Handling": 87,
+
+"666TopSpeed": 180,
+"6660to60": 4.3,
+"666Handling": 90,
+
+"699TopSpeed": 180,
+"6990to60": 4.1,
+"699Handling": 93,
+
+"969TopSpeed": 183,
+"9690to60": 4.3,
+"969Handling": 93,
+
+"996TopSpeed": 183,
+"9960to60": 4.1,
+"996Handling": 90,
+    "creator": "Havvy"
+}

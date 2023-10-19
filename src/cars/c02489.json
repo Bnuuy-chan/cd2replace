@@ -1,0 +1,49 @@
+{
+    "rq": 89,
+    "make": "TVR",
+    "model": "Project 7/12",
+    "modelYear": 1996,
+    "country": "GB",
+    "topSpeed": 240,
+    "0to60": 2.9,
+    "handling": 88,
+    "driveType": "RWD",
+    "tyreType": "Performance",
+    "tags": ["Concept", "Unique", "Supercar"],
+    "isPrize": false,
+	
+    "weight": 1021,
+    "gc": "Low",
+    "seatCount": 2,
+    "bodyStyle": "Coupe",
+    "tcs": false,
+    "abs": false,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 121.74,
+    "ola": 103.45,
+    "description": "Designed to compete with the McLaren F1, ended up being completely scrapped due to being deemed unsafe by TVR owner Peter Wheeler himself. All the prototypes were destroyed in order to support the GT1 and GT2 racer versions. Wasn't the end of road for the Speed 12 monster though...",
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1145660112468455524/TVR_Project_712.png",
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1145660363505926154/TVR_Project_712.png",
+    "creator": "Based",
+
+"333TopSpeed": 242,
+"3330to60": 2.8,
+"333Handling": 91,
+
+"666TopSpeed": 244,
+"6660to60": 2.6,
+"666Handling": 94,
+
+"699TopSpeed": 244,
+"6990to60": 2.5,
+"699Handling": 98,
+
+"969TopSpeed": 247,
+"9690to60": 2.6,
+"969Handling": 98,
+
+"996TopSpeed": 247,
+"9960to60": 2.5,
+"996Handling": 94
+}

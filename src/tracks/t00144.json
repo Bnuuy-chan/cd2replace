@@ -1,0 +1,18 @@
+{
+	"trackName": "Autodrom Most (Sunny)",
+	"weather": "Sunny",
+	"surface": "Track",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://cdn.discordapp.com/attachments/795029458729697290/1094971441310609438/most_aerialphoto_mar2021_01_full.jpg",
+	"map": "https://media.discordapp.net/attachments/1003260397786243142/1047920572086100078/bilsterberg.png",
+
+	"specsDistr": {
+		"topSpeed": 35,
+		"0to60": 90,
+		"handling": 65,
+		"weight": 0,
+		"mra": 75,
+		"ola": 0
+	}
+}

@@ -1,0 +1,49 @@
+{
+    "rq": 82,
+    "make": "BMW",
+    "model": "X7 M50i",
+    "modelYear": 2019,
+    "country": "DE",
+    "topSpeed": 155,
+    "0to60": 4.4,
+    "handling": 76,
+    "driveType": "4WD",
+    "tyreType": "All-Surface",
+    "tags": ["Servers Choice","Extreme Juggernaut","OG"],
+    "isPrize": false,
+    "weight": 2480,
+    "gc": "High",
+    "seatCount": 6,
+    "bodyStyle": "SUV",
+    "tcs": true,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 69.41,
+    "ola": 76.84,
+    "description": "Speedy for one behemoth of an SUV.",
+    "card": "https://media.discordapp.net/attachments/819199720249360384/1046848228366225428/S.BMWX7M50i.png",
+	
+"333TopSpeed": 158, 
+"3330to60": 4.2, 
+"333Handling": 79,
+
+"666TopSpeed": 162, 
+"6660to60": 4.0, 
+"666Handling": 81,
+
+"699TopSpeed": 162, 
+"6990to60": 3.7, 
+"699Handling": 84,
+
+"969TopSpeed": 165, 
+"9690to60": 4.0, 
+"969Handling": 84,
+
+"996TopSpeed": 165, 
+"9960to60": 3.7, 
+"996Handling": 81,
+
+    "racehud": "https://media.discordapp.net/attachments/995376525119586356/995761582367842385/BMWX7M50i.png",
+    "creator": "Connor"
+}

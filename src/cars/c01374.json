@@ -1,0 +1,50 @@
+{
+    "rq": 40,
+    "make": "Volkswagen",
+    "model": "Golf 2.8 VR6",
+    "modelYear": 1992,
+    "country": "DE",
+    "topSpeed": 139,
+    "0to60": 7.1,
+    "handling": 76,
+    "driveType": "FWD",
+    "tyreType": "Performance",
+    "tags": ["Eargasm", "Hot Hatch"],
+    "isPrize": false,
+
+    "weight": 1180,
+    "gc": "Medium",
+    "seatCount":5,
+    "bodyStyle": "Hatchback",
+    "tcs": false,
+    "abs": true,
+    "enginePos": "Front",
+    "fuelType": "Petrol",
+    "mra": 62.18,
+    "ola": 80.36,
+    "description": "One of the best sounding hot hatches.",
+
+    "card": "https://cdn.discordapp.com/attachments/1077292374608326656/1110140513534881832/Golf28VR6.png",
+    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1110143753815064696/Golf28VR6.png",
+    "creator": "Andu",
+
+    "333TopSpeed": 143,
+    "3330to60": 6.7,
+    "333Handling": 79,
+    
+    "666TopSpeed": 146,
+    "6660to60": 6.4,
+    "666Handling": 81,
+    
+    "699TopSpeed": 146,
+    "6990to60": 6,
+    "699Handling": 84,
+    
+    "969TopSpeed": 150,
+    "9690to60": 6.4,
+    "969Handling": 84,
+    
+    "996TopSpeed": 150,
+    "9960to60": 6,
+    "996Handling": 81
+}

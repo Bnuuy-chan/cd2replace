@@ -1,0 +1,18 @@
+{
+	"trackName": "Daytona International Speedway (Sunny)",
+	"weather": "Sunny",
+	"surface": "Track",
+	"speedbumps": 0,
+	"humps": 0,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/772045904882434068/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/809392976680845352/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 100,
+		"0to60": 10,
+		"handling": 60,
+		"weight": 0,
+		"mra": 100,
+		"ola": 0
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"trackName": "Hill Climb (Gravel)",
+	"weather": "Sunny",
+	"surface": "Gravel",
+	"speedbumps": 0,
+	"humps": 2,
+	"background": "https://media.discordapp.net/attachments/716917404868935691/776315462816104478/unknown.png",
+	"map": "https://media.discordapp.net/attachments/716917404868935691/809372583442776074/unknown.png",
+	
+	"specsDistr": {
+		"topSpeed": 1,
+		"0to60": 90,
+		"handling": 0,
+		"weight": 5,
+		"mra": 75,
+		"ola": 10
+	}
+}
