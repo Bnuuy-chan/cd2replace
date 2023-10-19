@@ -1,5 +1,5 @@
 {
-    "rq": 10,
+    "cr": 10,
     "make": ["Porsche-Studebaker", "Porsche", "Studebaker"],
     "model": "Type 542",
     "modelYear": 1952,

@@ -1,5 +1,5 @@
 {
-    "rq": 60,
+    "cr": 60,
     "make": ["Auto Union", "Audi"],
     "model": "Type C",
     "modelYear": 1936,

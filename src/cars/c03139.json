@@ -1,5 +1,5 @@
 {
-    "rq": 100,
+    "cr": 100,
     "make": ["Hennessey", "McLaren"],
     "model": "765LT HPE1000",
     "modelYear": 2021,

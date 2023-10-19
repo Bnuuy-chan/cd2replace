@@ -1,5 +1,5 @@
 {
-    "rq": 32,
+    "cr": 32,
     "make": ["Oettinger", "Volkswagen"],
     "model": "Scirocco 2000 E",
     "modelYear": 1980,

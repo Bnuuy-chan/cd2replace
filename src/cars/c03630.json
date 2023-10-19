@@ -1,5 +1,5 @@
 {
-    "rq": 50,
+    "cr": 50,
     "make": ["Ram", "Dodge"],
     "model": "1500 5.7 4x4 Crew Cab",
     "modelYear": 2013,

@@ -1,5 +1,5 @@
 {
-    "rq": 64,
+    "cr": 64,
     "make": ["Autodelta", "Alfa Romeo"],
     "model": "147 GTA AM 3.7 Super",
     "modelYear": 2007,

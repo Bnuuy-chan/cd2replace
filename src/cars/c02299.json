@@ -1,5 +1,5 @@
 {
-    "rq": 30,
+    "cr": 30,
     "make": ["Datsun-Nissan", "Nissan", "Datsun"],
     "model": "2400 GT",
     "modelYear": 1971,

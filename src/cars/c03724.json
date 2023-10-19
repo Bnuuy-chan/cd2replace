@@ -1,5 +1,5 @@
 {
-    "rq": 10,
+    "cr": 10,
     "make": ["Prince", "Nissan"],
     "model": "Skyline 1500 S50",
     "modelYear": 1963,

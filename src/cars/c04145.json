@@ -1,5 +1,5 @@
 {
-    "rq": 75,
+    "cr": 75,
     "make": ["Alpine", "Renault"],
     "model": "A110 R",
     "modelYear": 2022,

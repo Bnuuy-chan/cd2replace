@@ -1,5 +1,5 @@
 {
-    "rq": 60,
+    "cr": 60,
     "make": ["Militem", "Ram", "Dodge"],
     "model": "Magnum",
     "modelYear": 2019,

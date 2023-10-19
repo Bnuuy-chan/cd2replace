@@ -1,5 +1,5 @@
 {
-    "rq": 64,
+    "cr": 64,
     "make": ["Tolman", "Talbot", "Lotus", "Sunbeam"],
     "model": "Talbot Sunbeam Lotus",
     "modelYear": 2020,

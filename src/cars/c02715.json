@@ -1,5 +1,5 @@
 {
-    "rq": 80,
+    "cr": 80,
     "make": ["Hennessey", "Jeep"],
     "model": "Grand Cherokee SRT600",
     "modelYear": 2007,

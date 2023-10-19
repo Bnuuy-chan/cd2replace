@@ -1,5 +1,5 @@
 {
-    "rq": 42,
+    "cr": 42,
     "make": ["MVS", "Venturi"],
     "model": "Venturi 200",
     "modelYear": 1987,

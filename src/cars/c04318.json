@@ -1,5 +1,5 @@
 {  
-    "rq": 30,
+    "cr": 30,
     "make": ["Milltek", "Volkswagen"],
     "model": "up! GTI",
     "modelYear": 2019,

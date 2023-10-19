@@ -1,5 +1,5 @@
 {
-    "rq": 65,
+    "cr": 65,
     "make": ["Alpine", "Renault"],
     "model": "A110 Pure",
     "modelYear": 2018,
