@@ -22,8 +22,7 @@
     "mra": 66.66,
     "ola": 71.42,
     "description": "The new Nissan GT-R 2013 benefits from four years of near-constant tweaking and the addition of the Track Package.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/945446840436936745/GTRTrack13.png",
-    "333TopSpeed": 194,
+     "333TopSpeed": 194,
     "3330to60": 2.7,
     "333Handling": 93,
     "666TopSpeed": 196,
@@ -38,6 +37,6 @@
     "699TopSpeed": 196,
     "6990to60": 2.4,
     "699Handling": 100,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/995691482386280488/2013GTRTrack.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Bnuuy"
 }

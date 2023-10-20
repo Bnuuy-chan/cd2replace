@@ -24,8 +24,7 @@
     "mra": 66.67,
     "ola": 74.07,
     "description": "The new resurgence of the Infiniti Coupe now running a new twin-turbo V6.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/969686713054162954/7E3EF267-6FB4-4A33-9F72-CE52EDC0354E.png",
-    "333TopSpeed": 158,
+     "333TopSpeed": 158,
     "3330to60": 4.8,
     "333Handling": 83,
     "666TopSpeed": 162,
@@ -40,6 +39,6 @@
     "699TopSpeed": 162,
     "6990to60": 4.3,
     "699Handling": 89,
-    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1100177998923190363/Q60Spot.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Spence"
 }

@@ -22,8 +22,7 @@
     "mra": 74.65,
     "ola": 79.25,
     "description": "The other Nomad, just with a classy body.",
-    "card": "https://media.discordapp.net/attachments/1038167110125371402/1038186455043940372/morgan_plus_four_cx-t.png",
-    "333TopSpeed": 151,
+     "333TopSpeed": 151,
     "3330to60": 5.0,
     "333Handling": 87,
     "666TopSpeed": 154,
@@ -38,6 +37,6 @@
     "699TopSpeed": 154,
     "6990to60": 4.5,
     "699Handling": 90,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1039224679572983918/plus_four_cxt.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Lemon"
 }

@@ -28,8 +28,7 @@
     "mra": 54.21,
     "ola": 75.3,
     "description": "None.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/869497876156399666/datsun_260z.png",
-    "333TopSpeed": 126,
+     "333TopSpeed": 126,
     "3330to60": 8,
     "333Handling": 71,
     "666TopSpeed": 131,
@@ -44,6 +43,6 @@
     "699TopSpeed": 131,
     "6990to60": 7.1,
     "699Handling": 77,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1003164924438130708/260z.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }

@@ -23,8 +23,7 @@
     "mra": 39.44,
     "ola": 80.7,
     "description": "An interesting little electric sports car that has dual joysticks in place of a conventional steering wheel. One would also be able to notice that its design also carried over to the S660 kei sports car.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/868775758812831794/honda_ev-ster.png",
-
+ 
     "333TopSpeed": 104,
     "3330to60": 10.8,
     "333Handling": 74,
@@ -45,6 +44,6 @@
     "6990to60": 9.7,
     "699Handling": 80,
 
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1006563478376562738/ev-ster.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }

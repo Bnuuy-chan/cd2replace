@@ -24,8 +24,7 @@
     "mra": 33.33,
     "ola": 78.65,
     "description": "A very promising car that got eclipsed by its japanese cousins.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/965202556148137994/unknown.png",
-    "333TopSpeed": 116,
+     "333TopSpeed": 116,
     "3330to60": 8.5,
     "333Handling": 68,
     "666TopSpeed": 120,
@@ -40,6 +39,6 @@
     "699TopSpeed": 120,
     "6990to60": 7.6,
     "699Handling": 73,
-    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1095757110450602176/Mazda_Protege_DX.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Based"
 }

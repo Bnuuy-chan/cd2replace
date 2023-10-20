@@ -22,8 +22,7 @@
     "mra": 44.92,
     "ola": 62.75,
     "description": "Obscure japanese sedan with multiple weird trims, a classic.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/859562980374347776/Suzuki_Esteem_GLX.png",
-    "333TopSpeed": 111,
+     "333TopSpeed": 111,
     "3330to60": 10.1,
     "333Handling": 69,
     "666TopSpeed": 116,
@@ -38,6 +37,6 @@
     "699TopSpeed": 116,
     "6990to60": 9,
     "699Handling": 74,
-    "racehud": "https://cdn.discordapp.com/attachments/1077293403668234340/1100163492788584528/EsteemGLX.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Based"
 }

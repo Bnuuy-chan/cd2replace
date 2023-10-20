@@ -23,8 +23,7 @@
     "mra": 50.43,
     "ola": 58.62,
     "description": "The mid-level performance variant of the Bugeye Impreza for the people that can't afford an STI.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/844761185608794122/image0.jpg",
-
+ 
     "333TopSpeed": 150,
     "3330to60": 5.5,
     "333Handling": 74,
@@ -45,6 +44,6 @@
     "9960to60": 4.9,
     "996Handling": 77,
 
-    "racehud": "https://media.discordapp.net/attachments/1077293403668234340/1094609104833609758/wrx_2004.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Spence"
 }

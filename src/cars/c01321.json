@@ -22,8 +22,7 @@
     "mra": 43.87,
     "ola": 68.47,
     "description": "None.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/820002343403520010/E.ToyotaPrius.png",
-    "333TopSpeed": 110,
+     "333TopSpeed": 110,
     "3330to60": 10.5,
     "333Handling": 70,
     "666TopSpeed": 115,
@@ -38,6 +37,6 @@
     "699TopSpeed": 115,
     "6990to60": 9.4,
     "699Handling": 75,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/996122537438220438/dilettante.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Connor"
 }

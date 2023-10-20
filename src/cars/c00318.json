@@ -22,8 +22,7 @@
     "mra": 28.6,
     "ola": 62.38,
     "description": "Cute lil French city car.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/865584660143013898/citroen_c1_style.png",
-    "333TopSpeed": 103,
+     "333TopSpeed": 103,
     "3330to60": 12.3,
     "333Handling": 74,
     "666TopSpeed": 109,
@@ -38,6 +37,6 @@
     "699TopSpeed": 109,
     "6990to60": 11,
     "699Handling": 80,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1003166485730050080/c1_style.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }

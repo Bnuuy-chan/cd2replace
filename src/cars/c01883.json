@@ -23,8 +23,7 @@
     "mra": 47.96,
     "ola": 58.16,
     "description": "Sakichi Toyoda was the father of the person who founded Toyota Motor Company and the one that started the Toyoda family's venture into the industrial world. The Century was named after the 100th anniversary of Toyoda-san's birth and served as the flagship model of Toyota inside their homeland. Its most iconic feature was the golden phoenix badge at the front which represents the Imperial House of Japan.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/867728875969314826/toyota_century_type_a.png",
-
+ 
     "333TopSpeed": 111,
     "3330to60": 13.4,
     "333Handling": 62,
@@ -45,6 +44,6 @@
     "6990to60": 12,
     "699Handling": 67,
 
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1003164396425592892/century_type_a.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }

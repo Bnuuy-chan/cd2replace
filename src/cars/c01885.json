@@ -25,8 +25,7 @@
     "mra": 49.8,
     "ola": 59.84,
     "description": "The definition of Timeless:tm:.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/867728936162820126/toyota_century_type_e.png",
-    "333TopSpeed": 117,
+     "333TopSpeed": 117,
     "3330to60": 12.1,
     "333Handling": 62,
     "666TopSpeed": 121,
@@ -41,6 +40,6 @@
     "699TopSpeed": 121,
     "6990to60": 10.8,
     "699Handling": 67,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1003164363114426450/century_type_e.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }

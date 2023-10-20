@@ -26,8 +26,7 @@
     "mra": 50,
     "ola": 77.33,
     "description": "Aerodynamics can change a car drastically. This car further proves this fact.",
-    "card": "https://media.discordapp.net/attachments/819199720249360384/869499516699705344/nissan_fairlady_zg.png",
-    "333TopSpeed": 135,
+     "333TopSpeed": 135,
     "3330to60": 7.1,
     "333Handling": 75,
     "666TopSpeed": 139,
@@ -42,6 +41,6 @@
     "699TopSpeed": 139,
     "6990to60": 6.4,
     "699Handling": 81,
-    "racehud": "https://media.discordapp.net/attachments/995376525119586356/1001854846984523896/fairlady_zg.jpg",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
     "creator": "Keanny"
 }
