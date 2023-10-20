@@ -1,5 +1,5 @@
 {
-    "cr": 90,
+    "cr": 900,
     "make": ["Alpina","BMW"],
     "model": "XB7",
     "modelYear": 2020,
@@ -41,6 +41,6 @@
 "996TopSpeed": 189,
 "9960to60": 3.4,
 "996Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AlpinaXB7(2020).png",
     "creator": "Bnuuy"
 }
