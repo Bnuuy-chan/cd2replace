@@ -500,7 +500,7 @@ module.exports = {
                     for (let i = 0; i < currentchampionship.roster.length; i++) {
                         opponentIDs[i] = regenPool[Math.floor(Math.random() * regenPool.length)].slice(0, 6);
                     }
-                    opponentIDs = sortCars(opponentIDs, "rq", "ascending");
+                    opponentIDs = sortCars(opponentIDs, "cr", "ascending");
 
                     let upgrades = ["000", "333", "666", "699", "969", "996"];
                     for (let i = 0; i < currentchampionship.roster.length; i++) {

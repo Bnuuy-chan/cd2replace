@@ -78,25 +78,25 @@ module.exports = {
                     }
 
                     let fuseTokens = 10, upgMultiplier = parseInt(upgrade[0]) / 3;
-                    if (car["rq"] > 79) { //leggie
+                    if (car["cr"] > 849) { //leggie-Mystic
                         fuseTokens = 12500 + (upgMultiplier * 12500);
                     }
-                    else if (car["rq"] > 64 && car["rq"] <= 79) { //epic
+                    else if (car["cr"] > 699 && car["cr"] <= 849) { //exotic
                         fuseTokens = 2500 + (upgMultiplier * 2500);
                     }
-                    else if (car["rq"] > 49 && car["rq"] <= 64) { //ultra
+                    else if (car["cr"] > 549 && car["cr"] <= 699) { //epic
                         fuseTokens = 750 + (upgMultiplier * 750);
                     }
-                    else if (car["rq"] > 39 && car["rq"] <= 49) { //super
+                    else if (car["cr"] > 399 && car["cr"] <= 549) { //rare
                         fuseTokens = 350 + (upgMultiplier * 350);
                     }
-                    else if (car["rq"] > 29 && car["rq"] <= 39) { //rare
+                    else if (car["cr"] > 249 && car["cr"] <= 399) { //uncommon
                         fuseTokens = 100 + (upgMultiplier * 100);
                     }
-                    else if (car["rq"] > 19 && car["rq"] <= 29) { //uncommon
+                    else if (car["cr"] > 99 && car["cr"] <= 249) { //common
                         fuseTokens = 30 + (upgMultiplier * 30);
                     }
-                    else { //common
+                    else { //standard
                         fuseTokens = 10 + (upgMultiplier * 10);
                     }
                     fuseTokens *= amount;

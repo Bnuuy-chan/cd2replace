@@ -78,25 +78,25 @@ module.exports = {
                     }
 
                     let money, upgMultiplier = parseInt(upgrade[0]) + parseInt(upgrade[1]) + parseInt(upgrade[2]);
-                    if (car["rq"] > 79) { //leggie
+                    if (car["cr"] > 849) { //leggie-Mystic
                         money = 200000 + (upgMultiplier * 4500);
                     }
-                    else if (car["rq"] > 64 && car["rq"] <= 79) { //epic
+                    else if (car["cr"] > 699 && car["cr"] <= 849) { //exotic
                         money = 77500 + (upgMultiplier * 3750);
                     }
-                    else if (car["rq"] > 49 && car["rq"] <= 64) { //ultra
+                    else if (car["cr"] > 549 && car["cr"] <= 699) { //epic
                         money = 27500 + (upgMultiplier * 3000);
                     }
-                    else if (car["rq"] > 39 && car["rq"] <= 49) { //super
+                    else if (car["cr"] > 399 && car["cr"] <= 549) { //rare
                         money = 7500 + (upgMultiplier * 2250);
                     }
-                    else if (car["rq"] > 29 && car["rq"] <= 39) { //rare
+                    else if (car["cr"] > 249 && car["cr"] <= 399) { //uncommon
                         money = 1000 + (upgMultiplier * 1500);
                     }
-                    else if (car["rq"] > 19 && car["rq"] <= 29) { //uncommon
+                    else if (car["cr"] > 99 && car["cr"] <= 249) { //common
                         money = 500 + (upgMultiplier * 750);
                     }
-                    else { //common
+                    else { //standard
                         money = 200 + (upgMultiplier * 500);
                     }
                     money *= amount;

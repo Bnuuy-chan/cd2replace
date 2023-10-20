@@ -70,7 +70,7 @@ module.exports = {
                         }
 
                         const carName = carNameGen({ currentCar: car });
-                        let [moneyLimit, fuseTokenLimit] = definePrice(bmReference["rq"], upgrade, origUpgrade);
+                        let [moneyLimit, fuseTokenLimit] = definePrice(bmReference["cr"], upgrade, origUpgrade);
                         if (playerData.money >= moneyLimit && playerData.fuseTokens >= fuseTokenLimit) {
                             const confirmationMessage = new InfoMessage({
                                 channel: message.channel,
@@ -135,35 +135,35 @@ module.exports = {
                 });
         }
 
-        function definePrice(rq, upgrade, origUpgrade) {
+        function definePrice(cr, upgrade, origUpgrade) {
             let a = parseInt(upgrade[0]) + parseInt(upgrade[1]) + parseInt(upgrade[2]);
             let b = parseInt(origUpgrade[0]) + parseInt(origUpgrade[1]) + parseInt(origUpgrade[2]);
             let moneyMultiplier = 0, fuseMultiplier = 0;
-            if (rq > 79) { //leggie
-                moneyMultiplier = 4500;
-                fuseMultiplier = 1200;
+            if (cr > 849) { //leggie-Mystic
+                moneyMultiplier = 5000;
+                fuseMultiplier = 1500;
             }
-            else if (rq > 64 && rq <= 79) { //epic
-                moneyMultiplier = 3750;
-                fuseMultiplier = 700;
+            else if (cr > 699 && cr <= 849) { //exotic
+                moneyMultiplier = 4000;
+                fuseMultiplier = 900;
             }
-            else if (rq > 49 && rq <= 64) { //ultra
+            else if (cr > 549 && cr <= 699) { //epic
                 moneyMultiplier = 3000;
                 fuseMultiplier = 275;
             }
-            else if (rq > 39 && rq <= 49) { //super
+            else if (cr > 399 && cr <= 549) { //rare
                 moneyMultiplier = 2250;
                 fuseMultiplier = 100;
             }
-            else if (rq > 29 && rq <= 39) { //rare
+            else if (cr > 249 && cr <= 399) { //uncommon
                 moneyMultiplier = 1500;
                 fuseMultiplier = 35;
             }
-            else if (rq > 19 && rq <= 29) { //uncommon
+            else if (cr > 99 && cr <= 249) { //common
                 moneyMultiplier = 750;
                 fuseMultiplier = 10;
             }
-            else { //common
+            else { //standard
                 moneyMultiplier = 500;
                 fuseMultiplier = 10;
             }
