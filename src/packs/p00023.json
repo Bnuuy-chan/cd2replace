@@ -1,6 +1,6 @@
 {
     "packName": "Standard Elite Pack",
-    "description": "A pack of 5 super rares or better.",
+    "description": "A pack of 5 cards",
     "price": 225000,
 	"repetition": 1,
     "pack": "https://media.discordapp.net/attachments/956106029635088384/956106124183097354/Elite_Pack.png",
@@ -23,49 +23,54 @@
 
     "packSequence": [
         {
-            "common": 0,
-            "uncommon": 0,
-            "rare": 0,
-            "superRare": 74,
-            "ultraRare": 20.1,
-            "epic": 5.1,
-            "legendary": 0.8
+            "standard": 0,
+            "commom": 0,
+            "uncommom": 0,
+            "rare": 74,
+            "epic": 20,
+            "exotic": 5.1,
+            "legendary": 0.6,
+            "mystic": 0.3
         },
         {
-            "common": 0,
-            "uncommon": 0,
-            "rare": 0,
-            "superRare": 74,
-            "ultraRare": 20.1,
-            "epic": 5.1,
-            "legendary": 0.8
+            "standard": 0,
+            "commom": 0,
+            "uncommom": 0,
+            "rare": 74,
+            "epic": 20,
+            "exotic": 5.1,
+            "legendary": 0.6,
+            "mystic": 0.3
         },
         {
-            "common": 0,
-            "uncommon": 0,
-            "rare": 0,
-            "superRare": 74,
-            "ultraRare": 20.1,
-            "epic": 5.1,
-            "legendary": 0.8
+            "standard": 0,
+            "commom": 0,
+            "uncommom": 0,
+            "rare": 74,
+            "epic": 20,
+            "exotic": 5.1,
+            "legendary": 0.6,
+            "mystic": 0.3
         },
         {
-            "common": 0,
-            "uncommon": 0,
-            "rare": 0,
-            "superRare": 74,
-            "ultraRare": 20.1,
-            "epic": 5.1,
-            "legendary": 0.8
+            "standard": 0,
+            "commom": 0,
+            "uncommom": 0,
+            "rare": 74,
+            "epic": 20,
+            "exotic": 5.1,
+            "legendary": 0.6,
+            "mystic": 0.3
         },
         {
-            "common": 0,
-            "uncommon": 0,
-            "rare": 0,
-            "superRare": 74,
-            "ultraRare": 20.1,
-            "epic": 5.1,
-            "legendary": 0.8
+            "standard": 0,
+            "commom": 0,
+            "uncommom": 0,
+            "rare": 74,
+            "epic": 20,
+            "exotic": 5.1,
+            "legendary": 0.6,
+            "mystic": 0.3
         }
     ]
 }

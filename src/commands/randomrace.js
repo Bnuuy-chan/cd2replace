@@ -84,7 +84,7 @@ module.exports = {
                             }
                             else {
                                 reward = streak * 100 + 100000;
-                                crBonusBase = 500;
+                                crBonusBase = 5000;
                             }
                             if (playerCar.cr - opponentCar.cr <= 30) {
                                 crBonus = (opponentCar.cr - playerCar.cr + 40) * crBonusBase;
@@ -180,13 +180,13 @@ module.exports = {
             if (streak > 75 && streak <= 100) {
                 criteria.cr = {
                     start: 1,
-                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 5
+                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 50
                 };
             }
             else if (streak > 100 && streak <= 125) {
                 criteria.cr = {
                     start: 1,
-                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 5
+                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 50
                 };
                 let reqs = ["tyreType", "driveType", "enginePos"];
                 let req = reqs[Math.floor(Math.random() * reqs.length)];
@@ -199,7 +199,7 @@ module.exports = {
             else if (streak > 125 && streak <= 175) {
                 criteria.cr = {
                     start: 1,
-                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 2
+                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 20
                 };
                 let reqs = ["modelYear", "seatCount", "bodyStyle"];
                 let req = reqs[Math.floor(Math.random() * reqs.length)];
@@ -225,7 +225,7 @@ module.exports = {
             else if (streak > 175) {
                 criteria.cr = {
                     start: 1,
-                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 2
+                    end: opponentCar["cr"] + Math.floor(Math.random() * 6) + 20
                 };
                 let reqs = ["make", "modelYear", "gc", "tags"];
                 let req = reqs[Math.floor(Math.random() * reqs.length)];
