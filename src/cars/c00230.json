@@ -1,6 +1,6 @@
 {
     "carID": "c00230",
-    "cr": 10,
+    "cr": 100,
     "make": ["Buick","Opel","Isuzu"],
     "model": "Opel by Isuzu",
     "modelYear": 1976,

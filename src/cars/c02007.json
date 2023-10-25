@@ -1,6 +1,6 @@
 {
     "carID": "c02007",
-    "cr": 50,
+    "cr": 500,
     "make": ["Mopar", "Ram", "Dodge"],
     "model": "Ram Runner",
     "modelYear": 2011,
