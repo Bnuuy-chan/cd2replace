@@ -1,5 +1,5 @@
 {
-    "cr": 40,
+    "cr": 404,
     "make": ["AC Propulsion", "Scion"],
     "model": "eBox",
     "modelYear": 2007,
@@ -44,6 +44,6 @@
     "6990to60": 6,
     "699Handling": 80,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ACPropulsioneBox(2007).png",
     "creator": "Keanny"
 }
