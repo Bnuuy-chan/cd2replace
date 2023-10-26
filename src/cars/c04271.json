@@ -1,6 +1,6 @@
 {
     "carID": "c04271",
-    "cr": 260,
+    "cr": 263,
     "make": "Audi",
     "model": "A3 1.9 TDI Attraction",
     "modelYear": 1996,
@@ -25,7 +25,7 @@
     "mra": 39.11,
     "ola": 66.08,
     "description": "TDI",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiA319TDIAttraction(1996).png",
     "creator": "Connor",
 
     "333TopSpeed": 118,
