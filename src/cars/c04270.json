@@ -1,6 +1,6 @@
 {
     "carID": "c04270",
-    "cr": 370,
+    "cr": 365,
     "make": "Audi",
     "model": "A3 1.9 TDI PD Ambition",
     "modelYear": 2000,
@@ -25,7 +25,7 @@
     "mra": 55.97,
     "ola": 71.91,
     "description": "TDI Pumpe Duse",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiA319TDIPDAmbition(2000).png",
     "creator": "Connor",
 
     "333TopSpeed": 131,
