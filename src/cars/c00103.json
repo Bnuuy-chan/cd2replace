@@ -1,6 +1,6 @@
 {
     "carID": "c00103",
-    "cr": 400,
+    "cr": 403,
     "make": "Audi",
     "model": "A3 Sportback 2.0 TFSI quattro Sportline",
     "modelYear": 2004,
@@ -25,7 +25,7 @@
     "mra": 63.30,
     "ola": 60.86,
     "description": "quattro.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiA3Sportback20TFSIquattroSportline(2004).png",
     "creator": "Connor",
 
     "333TopSpeed": 149,
