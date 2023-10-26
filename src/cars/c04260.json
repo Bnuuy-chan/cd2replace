@@ -1,6 +1,6 @@
 {
     "carID": "c04260",
-    "cr": 460,
+    "cr": 455,
     "make": "Audi",
     "model": "A3 TDI Clubsport quattro Concept",
     "modelYear": 2008,
@@ -25,7 +25,7 @@
     "mra": 58.71,
     "ola": 71.88,
     "description": "Racing TDI machine.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiA3TDIClubsportquattroConcept(2008).png",
     "creator": "Connor",
 
     "333TopSpeed": 152,
