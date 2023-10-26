@@ -1,6 +1,6 @@
 {
     "carID": "c03240",
-    "cr": 610,
+    "cr": 608,
     "make": "Audi",
     "model": "Avantissimo Concept",
     "modelYear": 2001,
@@ -25,7 +25,7 @@
     "mra": 71.83,
     "ola": 74.50,
     "description": "Luxurious wagon previewing the D3 A8.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiAvantissimoConcept(2001).png",
     "creator": "Connor",
 
     "333TopSpeed": 158,
