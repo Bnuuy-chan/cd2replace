@@ -1,6 +1,6 @@
 {
     "carID": "c00102",
-    "cr": 400,
+    "cr": 398,
     "make": "Audi",
     "model": "A3 2.0 TFSI S line",
     "modelYear": 2004,
@@ -25,7 +25,7 @@
     "mra": 62.85,
     "ola": 75.75,
     "description": "First recipient of original TFSI engine which lasted until 2017 when Scirocco production ended.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiA320TFSISline(2004).png",
     "creator": "Connor",
 
     "333TopSpeed": 151,
