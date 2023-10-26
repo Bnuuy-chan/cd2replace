@@ -1,8 +1,8 @@
 {
     "carID": "c04356",
-    "cr": 720,
+    "cr": 719,
     "make": "Audi",
-    "model": "Q7 6.0 TDI V12 quattro",
+    "model": "Q7 6.0 TDI V12 quattro S line",
     "modelYear": 2010,
     "country": "DE",
     "topSpeed": 155,
@@ -25,7 +25,7 @@
     "mra": 72.97,
     "ola": 70.37,
     "description": "Most powerful production diesel engine ever fitted to a car, released during the wake of the biggest recession since 1930s.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/AudiQ760TDIV12quattroSline(2010).png",
     "creator": "Connor",
 
     "333TopSpeed": 158,
