@@ -1,6 +1,6 @@
 {
     "carID": "c00112",
-    "cr": 590,
+    "cr": 586,
     "make": "Audi",
     "model": "RS2 Avant",
     "modelYear": 1994,
@@ -24,7 +24,7 @@
     "mra": 62.50,
     "ola": 68.00,
     "description": "The wagon which started the RS family, engineered by Porsche.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AudiRS2Avant(1994).png",
     "creator": "Connor",
 
     "333TopSpeed": 166,
