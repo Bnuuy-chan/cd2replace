@@ -1,6 +1,6 @@
 {
     "carID": "c03245",
-    "cr": 870,
+    "cr": 869,
     "make": "Audi",
     "model": "Rosemeyer Concept",
     "modelYear": 2000,
@@ -25,7 +25,7 @@
     "mra": 97.05,
     "ola": 84.84,
     "description": "W16 powered monster named after Bernd Rosemeyer, 1930s german racing driver.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AudiRosemeyerConcept(2000).png",
     "creator": "Connor",
 
     "333TopSpeed": 220,
