@@ -1,6 +1,6 @@
 {
     "carID": "c04389",
-    "cr": 790,
+    "cr": 794,
     "make": "Audi",
     "model": "R8 GT Spyder",
     "modelYear": 2010,
@@ -24,7 +24,7 @@
     "mra": 82.93,
     "ola": 84.87,
     "description": "The most powerful 1st gen Spyder model.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AudiR8GTSpyder(2010).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 200, 
