@@ -1,6 +1,6 @@
 {
     "carID": "c00200",
-    "cr": 580,
+    "cr": 584,
     "make": "BMW",
     "model": "X2 xDrive28i",
     "modelYear": 2018,
@@ -40,6 +40,6 @@
     "699TopSpeed": 150,
     "6990to60": 5.4,
     "699Handling": 90,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWX2xDrive28i(2018).png",
     "creator": "Macan"
 }

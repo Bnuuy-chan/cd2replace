@@ -1,6 +1,6 @@
 {
     "carID": "c02312",
-    "cr": 770,
+    "cr": 768,
     "make": "Lamborghini",
     "model": "Countach LP500 Turbo S Prototipo",
     "modelYear": 1984,
@@ -25,7 +25,7 @@
     "ola": 85.71,
     "description": "Max Bobnar, A Swiss-based Lamborghini distributor, decided that the normal Countach just wasn't fast enough, clearly he was right.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniCountachLP500TurboSPrototipo(1984).png",
     "creator": "DodgeDemon",
 
     "333TopSpeed": 210,

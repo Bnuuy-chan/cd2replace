@@ -1,6 +1,6 @@
 {
     "carID": "c00141",
-    "cr": 1000,
+    "cr": 995,
     "make": "Bentley",
     "model": "Bentayga Speed",
     "modelYear": 2020,
@@ -42,6 +42,6 @@
 "996TopSpeed": 198,
 "9960to60": 3,
 "996Handling": 90,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BentleyBentaygaSpeed(2020).png",
     "creator": "Bnuuy"
 }

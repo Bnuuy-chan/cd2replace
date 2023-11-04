@@ -1,6 +1,6 @@
 {
     "carID": "c02133",
-    "cr": 600,
+    "cr": 603,
     "make": "Ferrari",
     "model": "FZ93 Zagato Spada",
     "modelYear": 1993,
@@ -38,6 +38,6 @@
     "699TopSpeed": 194,
     "6990to60": 4.5,
     "699Handling": 90,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FerrariFZ93ZagatoSpada(1993).png",
     "creator": "Bnuuy"
 }

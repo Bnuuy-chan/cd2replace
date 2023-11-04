@@ -1,6 +1,6 @@
 {
     "carID": "c00400",
-    "cr": 740,
+    "cr": 741,
     "make": "Ferrari",
     "model": "GG50",
     "modelYear": 2005,
@@ -38,6 +38,6 @@
     "699TopSpeed": 208,
     "6990to60": 3.5,
     "699Handling": 91,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FerrariGG50(2005).png",
     "creator": "Bnuuy"
 }

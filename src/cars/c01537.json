@@ -1,6 +1,6 @@
 {
     "carID": "c01537",
-    "cr": 720,
+    "cr": 724,
     "make": ["Green Lord Motors", "Tommykaira"],
     "model": "Tommykaira ZZ",
     "modelYear": 2014,
@@ -45,6 +45,6 @@
     "6990to60": 3.2,
     "699Handling": 100,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/GreenLordMotorsTommykairaZZ(2014).png",
     "creator": "Keanny"
 }

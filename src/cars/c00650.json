@@ -1,6 +1,6 @@
 {
     "carID": "c00650",
-    "cr": 610,
+    "cr": 609,
     "make": "Lamborghini",
     "model": "Countach 25th Anniversario",
     "modelYear": 1988,
@@ -25,7 +25,7 @@
     "ola": 85.39,
     "description": "The Countach to commemorate 25 years of the raging bull.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniCountach25thAnniversario(1988).png",
     "creator": "DodgeDemon",
 
     "333TopSpeed": 186,

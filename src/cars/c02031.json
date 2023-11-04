@@ -1,6 +1,6 @@
 {
     "carID": "c02031",
-    "cr": 690,
+    "cr": 692,
     "make": "Lamborghini",
     "model": "Miura P400 SVJ",
     "modelYear": 1971,
@@ -38,6 +38,6 @@
     "699TopSpeed": 186,
     "6990to60": 3.4,
     "699Handling": 92,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniMiuraP400SVJ(1971).png",
     "creator": "DodgeDemon"
 }

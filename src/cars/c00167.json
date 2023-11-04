@@ -1,6 +1,6 @@
 {
     "carID": "c00167",
-    "cr": 510,
+    "cr": 512,
     "make": "BMW",
     "model": "540i",
     "modelYear": 1996,
@@ -38,6 +38,6 @@
     "699TopSpeed": 162,
     "6990to60": 5.3,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMW540i(1996).png",
     "creator": "Macan"
 }

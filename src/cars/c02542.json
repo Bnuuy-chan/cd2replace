@@ -1,8 +1,8 @@
 {
     "carID": "c02542",
-    "cr": 460,
+    "cr": 462,
     "make": "Hongqi",
-    "model": "H9 2.0T",
+    "model": "H9 45TD",
     "modelYear": 2020,
     "country": "CN",
     "topSpeed": 143,
@@ -24,7 +24,7 @@
     "mra": 53.12,
     "ola": 74.12,
     "description": "None.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HongqiH945TD(2020).png",
     "creator": "Keanny",
 
 "333TopSpeed": 147, 

@@ -1,6 +1,6 @@
 {
     "carID": "c00325",
-    "cr": 620,
+    "cr": 616,
     "make": ["Cobb Tuning", "Ford"],
     "model": "Focus ST",
     "modelYear": 2013,
@@ -41,6 +41,6 @@
     "699TopSpeed": 162,
     "6990to60": 4.7,
     "699Handling": 97,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/CobbTuningFocusST(2013).png",
     "creator": "Keanny"
 }

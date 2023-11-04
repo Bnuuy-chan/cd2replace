@@ -1,6 +1,6 @@
 {
     "carID": "c00491",
-    "cr": 230,
+    "cr": 226,
     "make": "General Motors",
     "model": "EV1",
     "modelYear": 1996,
@@ -41,6 +41,6 @@
     "699TopSpeed": 93,
     "6990to60": 6.9,
     "699Handling": 71,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/GeneralMotorsEV1(1996).png",
     "creator": "Keanny"
 }

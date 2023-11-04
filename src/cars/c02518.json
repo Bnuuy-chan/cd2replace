@@ -1,6 +1,6 @@
 {
     "carID": "c02518",
-    "cr": 240,
+    "cr": 241,
     "make": ["Carlsson", "Mercedes-Benz"],
     "model": "R CD 32",
     "modelYear": 2006,
@@ -24,7 +24,7 @@
     "mra": 54.3,
     "ola": 73.17,
     "description": "None.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/CarlssonRCD32(2006).png",
     "creator": "Keanny",
 
 "333TopSpeed": 143, 

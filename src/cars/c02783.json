@@ -1,8 +1,8 @@
 {
     "carID": "c02783",
-    "cr": 360,
+    "cr": 355,
     "make": "Hongqi",
-    "model": "Shengshi HQ300",
+    "model": "HQ3",
     "modelYear": 2006,
     "country": "CN",
     "topSpeed": 146,
@@ -24,7 +24,7 @@
     "mra": 57.53,
     "ola": 71.43,
     "description": "Yup, just a rebadged Toyota Crown Majesta. Nothing to see here.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HongqiHQ3(2006).png",
     "creator": "Keanny",
 
 "333TopSpeed": 150, 
