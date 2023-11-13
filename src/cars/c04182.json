@@ -1,9 +1,9 @@
 {
     "carID": "c04182",
-    "cr": 560,
+    "cr": 564,
     "make": "Alfa Romeo",
-    "model": "Stelvio 2.2 TD Ti Q4",
-    "modelYear": 2019,
+    "model": "Stelvio 2.2 TD Q4 (190)",
+    "modelYear": 2018,
     "country": "IT",
     "topSpeed": 131,
     "0to60": 7.3,
@@ -24,7 +24,7 @@
     "mra": 54.37,
     "ola": 63.10,
     "description": "Ti trim level making its debut in Europe.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AlfaRomeoStelvio2.2TDQ4(190)(2018).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 135, 
