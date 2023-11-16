@@ -1,6 +1,6 @@
 {
     "carID": "c00307",
-    "cr": 240,
+    "cr": 244,
     "make": "Chevrolet",
     "model": "Volt",
     "modelYear": 2011,
@@ -45,6 +45,6 @@
     "6990to60": 7.6,
     "699Handling": 79,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ChevroletVolt(2011).png",
     "creator": "Keanny"
 }

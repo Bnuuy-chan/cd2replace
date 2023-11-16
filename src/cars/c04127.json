@@ -1,6 +1,6 @@
 {
     "carID": "c04127",
-    "cr": 910,
+    "cr": 905,
     "make": ["Brabus", "Mercedes-AMG", "Mercedes-Benz"],
     "model": "800",
     "modelYear": 2019,
@@ -24,7 +24,7 @@
     "mra": 80,
     "ola": 80.71,
     "description": "None",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Brabus800(2018).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 199, 

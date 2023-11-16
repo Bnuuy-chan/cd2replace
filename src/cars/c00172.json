@@ -2,7 +2,7 @@
     "carID": "c00172",
     "cr": 430,
     "make": "BMW",
-    "model": "i3 S",
+    "model": "i3s",
     "modelYear": 2017,
     "country": "DE",
     "topSpeed": 99,
@@ -45,6 +45,6 @@
     "6990to60": 5.8,
     "699Handling": 85,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWi3s(2017).png",
     "creator": "Keanny"
 }

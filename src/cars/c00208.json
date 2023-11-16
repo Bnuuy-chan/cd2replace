@@ -1,6 +1,6 @@
 {
     "carID": "c00208",
-    "cr": 750,
+    "cr": 747,
     "make": "BMW",
     "model": "Z4 M40i",
     "modelYear": 2019,
@@ -38,6 +38,6 @@
     "699TopSpeed": 171,
     "6990to60": 3.2,
     "699Handling": 101,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWZ4M40i(2019).png",
     "creator": "Keanny"
 }

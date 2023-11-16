@@ -1,6 +1,6 @@
 {
     "carID": "c02094",
-    "cr": 650,
+    "cr": 652,
     "make": ["Assist", "BMW"],
     "model": "Z4 sDrive20i M Sport",
     "modelYear": 2021,
@@ -45,6 +45,6 @@
     "6990to60": 4.2,
     "699Handling": 102,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AssistZ4sDrive20iMSport(2021).png",
     "creator": "Keanny"
 }

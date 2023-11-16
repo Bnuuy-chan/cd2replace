@@ -1,6 +1,6 @@
 {
     "carID": "c00207",
-    "cr": 610,
+    "cr": 606,
     "make": "BMW",
     "model": "Z4 M Coupe",
     "modelYear": 2006,
@@ -40,6 +40,6 @@
     "699TopSpeed": 166,
     "6990to60": 4.1,
     "699Handling": 94,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWZ4MCoupe(2006).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00174",
-    "cr": 490,
+    "cr": 486,
     "make": "BMW",
     "model": "i8 Hydrogen Fuel Cell eDrive Prototype",
     "modelYear": 2015,
@@ -42,6 +42,6 @@
     "699TopSpeed": 132,
     "6990to60": 4.8,
     "699Handling": 87,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWi8HydrogenFuelCelleDrivePrototype(2015).png",
     "creator": "Keanny"
 }

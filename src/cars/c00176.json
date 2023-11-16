@@ -1,9 +1,9 @@
 {
     "carID": "c00176",
-    "cr": 580,
+    "cr": 583,
     "make": "BMW",
-    "model": "M1 Autogas LPG Record Car",
-    "modelYear": 1978,
+    "model": "M1 Autogas LPG Land Speed Record",
+    "modelYear": 1981,
     "country": "DE",
     "topSpeed": 187,
     "0to60": 4.5,
@@ -38,6 +38,6 @@
     "699TopSpeed": 193,
     "6990to60": 3.8,
     "699Handling": 83,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWM1AutogasLPGLandSpeedRecord(1987).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00135",
-    "cr": 630,
+    "cr": 631,
     "make": ["Autodelta", "Alfa Romeo"],
     "model": "147 GTA AM 3.7 Super",
     "modelYear": 2005,
@@ -45,6 +45,6 @@
     "6990to60": 4.1,
     "699Handling": 94,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Autodelta147GTAAM3.7Super(2005).png",
     "creator": "Keanny"
 }
