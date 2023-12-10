@@ -1,6 +1,6 @@
 {  
     "carID": "c04404",
-    "cr": 400,
+    "cr": 402,
     "make": "Chevrolet",
     "model": "Cruze 2.0TD LT",
     "modelYear": 2014,
@@ -26,7 +26,7 @@
     "ola": 63.13,
     "description": "A taste of european diesel for the Americans.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ChevroletCruze20TDLT(2014).png",
     "creator": "Andu",
 
     "333TopSpeed": 129,
