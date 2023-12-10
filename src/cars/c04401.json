@@ -1,11 +1,11 @@
 {  
     "carID": "c04401",
-    "cr": 340,
+    "cr": 344,
     "make": "Chevrolet",
     "model": "Cruze 1.8 LT RS",
     "modelYear": 2012,
     "country": "US",
-    "topSpeed": 112,
+    "topSpeed": 114,
     "0to60": 9.4,
     "handling": 75,
     "driveType": "FWD",
@@ -26,7 +26,7 @@
     "ola": 65.96,
     "description": "RS brings in an interesting cosmetic touch to the somewhat boring Opel Ast oh oops i meant Cruze.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ChevroletCruze18LTRS(2012).png",
     "creator": "Andu",
 
     "333TopSpeed": 122,
