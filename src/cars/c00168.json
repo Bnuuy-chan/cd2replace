@@ -1,6 +1,6 @@
 {
     "carID": "c00168",
-    "cr": 300,
+    "cr": 302,
     "make": "BMW",
     "model": "735i",
     "modelYear": 1986,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 60.9,
     "ola": 73.68,
-    "description": "Smooth classic luxury. Card by Andu",
+    "description": "Smooth classic luxury.",
      "333TopSpeed": 144,
     "3330to60": 9,
     "333Handling": 70,
@@ -38,6 +38,6 @@
     "699TopSpeed": 147,
     "6990to60": 8.1,
     "699Handling": 75,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMW735i(1986).png",
     "creator": "Andu"
 }
