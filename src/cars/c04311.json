@@ -1,6 +1,6 @@
 {  
     "carID": "c04311",
-    "cr": 360,
+    "cr": 362,
     "make": "Chevrolet",
     "model": "Cruze EV Prototype",
     "modelYear": 2010,
@@ -26,7 +26,7 @@
     "ola": 75.95,
     "description": "Tiny little steps in the electric world.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ChevroletCruzeEVPrototype(2010).png",
     "creator": "Hastur",
 
     "333TopSpeed": 108,
