@@ -1,6 +1,6 @@
 {
     "carID": "c00116",
-    "cr": 430,
+    "cr": 434,
     "make": "Audi",
     "model": "S3",
     "modelYear": 2001,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 66.33,
     "ola": 70.77,
-    "description": "Audi's sporty A3 gets VVT. Card by andu",
+    "description": "Audi's sporty A3 gets VVT.",
      "333TopSpeed": 152,
     "3330to60": 6.2,
     "333Handling": 82,
@@ -38,6 +38,6 @@
     "699TopSpeed": 156,
     "6990to60": 5.5,
     "699Handling": 88,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AudiS3(2001).png",
     "creator": "Andu"
 }
