@@ -1,6 +1,6 @@
 {
     "carID": "c00028",
-    "cr": 360,
+    "cr": 364,
     "make": "Alfa Romeo",
     "model": "164 3.0 V6 Lusso",
     "modelYear": 1990,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 64.71,
     "ola": 84.95,
-    "description": "An intelligent, cheap big car choice. Card by Andu",
+    "description": "An intelligent, cheap big car choice",
      "333TopSpeed": 145,
     "3330to60": 7.9,
     "333Handling": 72,
@@ -40,6 +40,6 @@
     "699TopSpeed": 148,
     "6990to60": 7.1,
     "699Handling": 78,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AlfaRomeo16430V6Lusso(1990).png",
     "creator": "Andu"
 }
