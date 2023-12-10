@@ -1,6 +1,6 @@
 {
     "carID": "c00029",
-    "cr": 350,
+    "cr": 366,
     "make": "Alfa Romeo",
     "model": "164 Q4",
     "modelYear": 1993,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 66.96,
     "ola": 77.92,
-    "description": "Rare, special, and excellent to drive. Card by Andu",
+    "description": "Rare, special, and excellent to drive.",
      "333TopSpeed": 152,
     "3330to60": 7.3,
     "333Handling": 72,
@@ -40,6 +40,6 @@
     "699TopSpeed": 155,
     "6990to60": 6.5,
     "699Handling": 78,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AlfaRomeo164Q4(1993)",
     "creator": "Andu"
 }
