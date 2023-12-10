@@ -1,6 +1,6 @@
 {
     "carID": "c00180",
-    "cr": 700,
+    "cr": 690,
     "make": "BMW",
     "model": "M235i xDrive Gran Coupe",
     "modelYear": 2020,
@@ -12,8 +12,8 @@
     "tyreType": "Performance",
     "tags": [],
     "isPrize": false,
-    "weight": 1570,
-    "gc": "Low",
+    "weight": 1645,
+    "gc": "Medium",
     "seatCount": 5,
     "bodyStyle": "Sedan",
     "tcs": true,
@@ -38,6 +38,6 @@
     "699TopSpeed": 162,
     "6990to60": 4.0,
     "699Handling": 91,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWM235ixDriveGranCoupe(2020).png",
     "creator": "Havvy"
 }
