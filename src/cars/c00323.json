@@ -1,13 +1,13 @@
 {
     "carID": "c00323",
-    "cr": 350,
+    "cr": 321,
     "make": "Citroen",
     "model": "XM 3.0 V6",
     "modelYear": 1989,
     "country": "FR",
     "topSpeed": 134,
     "0to60": 9.3,
-    "handling": 72,
+    "handling": 68,
     "driveType": "FWD",
     "tyreType": "Standard",
     "tags": [],
@@ -16,7 +16,7 @@
     "gc": "Medium",
     "seatCount": 5,
     "bodyStyle": "Hatchback",
-    "tcs": true,
+    "tcs": false,
     "abs": true,
     "enginePos": "Front",
     "fuelType": "Petrol",
@@ -38,6 +38,6 @@
     "699TopSpeed": 142,
     "6990to60": 7.9,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/CitroenXM30V6(1989).png",
     "creator": "Andu"
 }
