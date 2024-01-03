@@ -1,6 +1,6 @@
 {  
     "carID": "c03399",
-    "cr": 270,
+    "cr": 265,
     "make": "Fiat",
     "model": "Panda 1.3 MJT 4x4",
     "modelYear": 2017,
@@ -26,7 +26,7 @@
     "ola": 55.71,
     "description": "A good diesel basic offroader.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatPanda13MJT4x42017).png",
     "creator": "Andu",
 
     "333TopSpeed": 104,
