@@ -1,6 +1,6 @@
 {
     "carID": "c00330",
-    "cr": 250,
+    "cr": 254,
     "make": "Daewoo",
     "model": "Lanos SX",
     "modelYear": 1997,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 44.42,
     "ola": 59.91,
-    "description": "The second coming of a car that is running and going. Card by Andu",
+    "description": "Barebones basic, offered rather average fuel economy and a driving dynamic that could only be summed up in one word: Chaotic.",
      "333TopSpeed": 119,
     "3330to60": 10.8,
     "333Handling": 70,
