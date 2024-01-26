@@ -1,6 +1,6 @@
 {
     "carID": "c00412",
-    "cr": 210,
+    "cr": 206,
     "make": "Fiat",
     "model": "Croma 1.6",
     "modelYear": 1986,
@@ -10,9 +10,7 @@
     "handling": 69,
     "driveType": "FWD",
     "tyreType": "Standard",
-    "tags": [
-        "The Tyrol Tour"
-    ],
+    "tags": ["The Tyrol Tour"],
     "isPrize": false,
     "weight": 1170,
     "gc": "Medium",
@@ -24,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 35.32,
     "ola": 63.24,
-    "description": "Base model engine for base model needs. Card by Andu",
+    "description": "Base model engine for base model needs.",
      "333TopSpeed": 111,
     "3330to60": 12.9,
     "333Handling": 71,
@@ -40,6 +38,6 @@
     "699TopSpeed": 116,
     "6990to60": 11.6,
     "699Handling": 77,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatCroma16(1986).png",
     "creator": "Andu"
 }
