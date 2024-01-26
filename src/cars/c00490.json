@@ -1,6 +1,6 @@
 {
     "carID": "c00490",
-    "cr": 270,
+    "cr": 271,
     "make": "Ford",
     "model": "Transit Connect 2.5 LWB",
     "modelYear": 2013,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 35.19,
     "ola": 61.39,
-    "description": "Long wheelbase Connect 4™️. Card by Andu",
+    "description": "Long wheelbase Connect 4™.",
      "333TopSpeed": 114,
     "3330to60": 9.6,
     "333Handling": 72,
@@ -38,6 +38,6 @@
     "699TopSpeed": 119,
     "6990to60": 8.6,
     "699Handling": 78,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FordTransitConnect2.5LWB(2013).png",
     "creator": "Andu"
 }
