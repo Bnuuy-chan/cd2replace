@@ -1,6 +1,6 @@
 {
     "carID": "c03200",
-    "cr": 130,
+    "cr": 133,
     "make": "Fiat",
     "model": "500C 1.0 Hybrid Launch Edition",
     "modelYear": 2020,
@@ -24,7 +24,7 @@
     "fuelType": "Hybrid",
     "mra": 10.34,
     "ola": 53.06,
-    "description": "New decade, new engine. Card by Andu.",
+    "description": "New decade, new engine.",
 
 
     "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
