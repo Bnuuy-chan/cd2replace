@@ -1,6 +1,6 @@
 {
     "carID": "c03197",
-    "cr": 230,
+    "cr": 232,
     "make": "Fiat",
     "model": "500 0.9 Twinair Turbo Lounge",
     "modelYear": 2013,
@@ -24,10 +24,10 @@
     "fuelType": "Petrol",
     "mra": 24.54,
     "ola": 59.81,
-    "description": "The 2 cylinders wonder. Card by Andu.",
+    "description": "The 2 cylinders wonder.",
 
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat50009TwinairTurboLounge(2013).png",
     "creator": "Andu",
 
     "333TopSpeed": 119,
