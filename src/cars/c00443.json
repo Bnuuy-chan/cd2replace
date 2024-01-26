@@ -1,6 +1,6 @@
 {
     "carID": "c00443",
-    "cr": 600,
+    "cr": 598,
     "make": "Ford",
     "model": "Festiva Shogun",
     "modelYear": 1989,
@@ -43,6 +43,6 @@
     "699TopSpeed": 152,
     "6990to60": 4.2,
     "699Handling": 95,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FordFestivaShogun(1989).png",
     "creator": "Andu"
 }
