@@ -10,9 +10,7 @@
     "handling": 72,
     "driveType": "FWD",
     "tyreType": "Performance",
-    "tags": [
-        "The Tyrol Tour"
-    ],
+    "tags": ["The Tyrol Tour"],
     "isPrize": false,
     "weight": 1367,
     "gc": "Medium",
@@ -24,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 64.64,
     "ola": 81.05,
-    "description": "Understated Power. Card by Andu",
+    "description": "Understated Power.",
      "333TopSpeed": 137,
     "3330to60": 7.3,
     "333Handling": 74,
@@ -40,6 +38,6 @@
     "699TopSpeed": 141,
     "6990to60": 6.5,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatCroma20i.e.Turbo(1987).png",
     "creator": "Andu"
 }
