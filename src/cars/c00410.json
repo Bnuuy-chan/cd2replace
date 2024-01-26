@@ -1,8 +1,8 @@
 {
     "carID": "c00410",
-    "cr": 370,
+    "cr": 373,
     "make": "Fiat",
-    "model": "500L Trekking",
+    "model": "500L 1.4 T-Jet Trekking",
     "modelYear": 2013,
     "country": "IT",
     "topSpeed": 127,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 50.32,
     "ola": 70.73,
-    "description": "Its headlights look like eggs to me. Card by Andu",
+    "description": "Apathetically going where others have gone before. Groundbreaking.",
      "333TopSpeed": 131,
     "3330to60": 7.6,
     "333Handling": 70,
@@ -38,6 +38,6 @@
     "699TopSpeed": 135,
     "6990to60": 6.8,
     "699Handling": 75,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
-    "creator": ""
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat500L14T-JetTrekking(2013).png",
+    "creator": "Andu"
 }
