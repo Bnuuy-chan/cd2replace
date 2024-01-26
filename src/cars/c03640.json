@@ -1,6 +1,6 @@
 {
     "carID": "c03640",
-    "cr": 510,
+    "cr": 511,
     "make": "Fiat",
     "model": "Croma 8ttoV Concept",
     "modelYear": 2005,
@@ -27,7 +27,7 @@
     "description": "Body by Americans, Engine by Italians and Heart by Germans.",
 
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatCroma8ttoVConcept(2005).png",
     "creator": "Andu",
 
     "333TopSpeed": 170,
