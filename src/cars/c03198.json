@@ -1,8 +1,8 @@
 {
     "carID": "c03198",
-    "cr": 140,
+    "cr": 135,
     "make": "Fiat",
-    "model": " 500 1.0 Hybrid Cult",
+    "model": " 500 1.0 Firefly Hybrid Cult",
     "modelYear": 2020,
     "country": "IT",
     "topSpeed": 101,
@@ -24,10 +24,10 @@
     "fuelType": "Hybrid",
     "mra": 19.21,
     "ola": 53.42,
-    "description": "Just nod and smile. Card by Andu.",
+    "description": "Just nod and smile.",
 
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat500FireflyHybridCult(2020).png",
     "creator": "Andu",
 
     "333TopSpeed": 106,
