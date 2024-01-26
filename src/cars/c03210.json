@@ -1,6 +1,6 @@
 {
     "carID": "c03210",
-    "cr": 170,
+    "cr": 165,
     "make": "Fiat",
     "model": "500C 1.2 Pop",
     "modelYear": 2009,
@@ -24,10 +24,10 @@
     "fuelType": "Petrol",
     "mra": 16.43,
     "ola": 61.42,
-    "description": "Pop Pop Pop Pop Pop. Card by Andu.",
+    "description": "Pop Pop Pop Pop Pop.",
 
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat500C12Pop(2009).png",
     "creator": "Andu",
 
     "333TopSpeed": 105,
