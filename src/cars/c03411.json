@@ -1,6 +1,6 @@
 {  
     "carID": "c03411",
-    "cr": 420,
+    "cr": 418,
     "make": "Fiat",
     "model": "PanDAKAR",
     "modelYear": 2007,
@@ -26,7 +26,7 @@
     "ola": 49.52,
     "description": "The cutest little Dakar thing.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatPanDAKAR(2007).png",
     "creator": "Andu",
     
     "333TopSpeed": 114,
