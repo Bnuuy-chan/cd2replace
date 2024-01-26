@@ -1,6 +1,6 @@
 {
     "carID": "c00444",
-    "cr": 230,
+    "cr": 224,
     "make": "Ford",
     "model": "Fiesta Ghia",
     "modelYear": 1976,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 25.56,
     "ola": 57.89,
-    "description": "Ghia. For luxury. Card by Andu",
+    "description": "Ghia. For luxury.",
      "333TopSpeed": 106,
     "3330to60": 10.8,
     "333Handling": 66,
@@ -38,6 +38,6 @@
     "699TopSpeed": 111,
     "6990to60": 9.7,
     "699Handling": 71,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FordFiestaGhia(1976).png",
     "creator": "Andu"
 }
