@@ -1,6 +1,6 @@
 {  
     "carID": "c03403",
-    "cr": 140,
+    "cr": 143,
     "make": "Fiat",
     "model": "Panda 4x4",
     "modelYear": 1983,
@@ -26,7 +26,7 @@
     "ola": 48.00,
     "description": "Amateur rock climber.",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/FiatPanda4x4(1983).png",
     "creator": "Andu",
     
     "333TopSpeed": 88,
