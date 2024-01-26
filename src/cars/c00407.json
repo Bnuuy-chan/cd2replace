@@ -1,8 +1,8 @@
 {
     "carID": "c00407",
-    "cr": 260,
+    "cr": 255,
     "make": "Fiat",
-    "model": "500 Sport",
+    "model": "500 1.4 Sport",
     "modelYear": 2012,
     "country": "IT",
     "topSpeed": 111,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 34.83,
     "ola": 57.43,
-    "description": "A sporty-ish version of the small 500. Card by Andu",
+    "description": "A sporty-ish version of the small 500.",
      "333TopSpeed": 116,
     "3330to60": 9.6,
     "333Handling": 76,
@@ -38,6 +38,6 @@
     "699TopSpeed": 120,
     "6990to60": 8.6,
     "699Handling": 82,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat50014Sport(2012).png",
     "creator": "Andu"
 }
