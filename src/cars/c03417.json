@@ -1,6 +1,6 @@
 {  
     "carID": "c03417",
-    "cr": 780,
+    "cr": 777,
     "make": ["M-Sport", "Fiat"],
     "model": "Panda \"Pandamonium\"",
     "modelYear": 2021,
@@ -26,7 +26,7 @@
     "ola": 80.00,
     "description": "IT'S THE END OF THE WORLD! THE END OF THE WORLD! THERE'S A PANDAMONIUM OUT THERE!!!",
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MSportPandamonium(2021).png",
     "creator": "Andu",
     
     "333TopSpeed": 124,
