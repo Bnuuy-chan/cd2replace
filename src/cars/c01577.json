@@ -1,6 +1,6 @@
 {
     "carID": "c01577",
-    "cr": 290,
+    "cr": 289,
     "make": "Isuzu",
     "model": "Impulse Turbo",
     "modelYear": 1987,
@@ -25,7 +25,7 @@
     "fuelType": "Petrol",
     "mra": 51.38,
     "ola": 69.46,
-    "description": "Finger on the (im)pulse. Card by Andu.",
+    "description": "Finger on the (im)pulse.",
      "333TopSpeed": 133,
     "3330to60": 8,
     "333Handling": 74,
@@ -41,6 +41,6 @@
     "699TopSpeed": 137,
     "6990to60": 7.1,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/IsuzuImpulseTurbo(1987).png",
     "creator": "Andu"
 }
