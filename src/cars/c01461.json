@@ -1,10 +1,7 @@
 {
     "carID": "c01461",
-    "cr": 410,
-    "make": [
-        "Mugen",
-        "Honda"
-    ],
+    "cr": 409,
+    "make": ["Mugen","Honda"],
     "model": "CRX Si PRO.2",
     "modelYear": 1989,
     "country": "JP",
@@ -13,11 +10,7 @@
     "handling": 75,
     "driveType": "FWD",
     "tyreType": "Performance",
-    "tags": [
-        "Hot Hatch",
-        "Tuner",
-        "Unique"
-    ],
+    "tags": ["Hot Hatch","Tuner","Unique"],
     "isPrize": false,
     "weight": 1000,
     "gc": "Medium",
@@ -29,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 59.48,
     "ola": 78.26,
-    "description": "Fun fact, it appeared in Gran Turismo 2. Card by Andu.",
+    "description": "Fun fact, this appeared in Gran Turismo 2.",
      "333TopSpeed": 144,
     "3330to60": 6.6,
     "333Handling": 77,
@@ -45,6 +38,6 @@
     "699TopSpeed": 147,
     "6990to60": 5.9,
     "699Handling": 83,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MugenCR-XSiPRO.2(1989).png",
     "creator": "Andu"
 }
