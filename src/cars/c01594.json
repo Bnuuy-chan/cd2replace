@@ -1,6 +1,6 @@
 {
     "carID": "c01594",
-    "cr": 370,
+    "cr": 374,
     "make": "Mazda",
     "model": "2 Skyactiv-G 115 Genki",
     "modelYear": 2014,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 50.54,
     "ola": 74.47,
-    "description": "The handling king of the sub compacts, aussie trim. Card by Andu",
+    "description": "The handling king of the sub compacts, aussie trim.",
      "333TopSpeed": 128,
     "3330to60": 8.9,
     "333Handling": 80,
@@ -40,6 +40,6 @@
     "699TopSpeed": 132,
     "6990to60": 8,
     "699Handling": 85,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Mazda2Skyactiv-GGenki(2014).png",
     "creator": "Andu"
 }
