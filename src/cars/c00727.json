@@ -1,6 +1,6 @@
 {
     "carID": "c00727",
-    "cr": 330,
+    "cr": 328,
     "make": "Lotus",
     "model": "Elan Sprint Emission",
     "modelYear": 1971,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 46.41,
     "ola": 69.05,
-    "description": "Sprinting with lower hp cause USA regulations. Card by Andu",
+    "description": "Sprinting with lower hp cause USA regulations.",
      "333TopSpeed": 117,
     "3330to60": 8,
     "333Handling": 67,
@@ -38,6 +38,6 @@
     "699TopSpeed": 121,
     "6990to60": 7.1,
     "699Handling": 72,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LotusElanSprintEmission(1971).png",
     "creator": "Andu"
 }
