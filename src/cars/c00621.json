@@ -1,6 +1,6 @@
 {
     "carID": "c00621",
-    "cr": 270,
+    "cr": 274,
     "make": "Kia",
     "model": "Soul EV",
     "modelYear": 2015,
@@ -41,6 +41,6 @@
     "699TopSpeed": 103,
     "6990to60": 8,
     "699Handling": 77,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/KiaSoulEV(2015).png",
     "creator": "Andu"
 }
