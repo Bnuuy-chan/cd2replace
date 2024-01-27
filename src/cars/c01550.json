@@ -1,6 +1,6 @@
 {
     "carID": "c01550",
-    "cr": 360,
+    "cr": 357,
     "make": "Honda",
     "model": "CRX 1.6i-VT",
     "modelYear": 1989,
@@ -25,7 +25,7 @@
     "fuelType": "Petrol",
     "mra": 52.28,
     "ola": 75.44,
-    "description": "Suck it america, you never got this VTec power. Card by Andu.",
+    "description": "Suck it america, you never got this VTec power.",
      "333TopSpeed": 140,
     "3330to60": 7.1,
     "333Handling": 76,
@@ -41,6 +41,6 @@
     "699TopSpeed": 144,
     "6990to60": 6.4,
     "699Handling": 82,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HondaCRX16iVT(1990).png",
     "creator": "Andu"
 }
