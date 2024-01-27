@@ -1,6 +1,6 @@
 {
     "carID": "c01595",
-    "cr": 290,
+    "cr": 291,
     "make": "Mazda",
     "model": "2 Skyactiv-G 75 Essence",
     "modelYear": 2014,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 27.85,
     "ola": 66.09,
-    "description": "The essence of beauty. Card by Andu",
+    "description": "The essence of beauty.",
      "333TopSpeed": 112,
     "3330to60": 10.9,
     "333Handling": 79,
@@ -40,6 +40,6 @@
     "699TopSpeed": 117,
     "6990to60": 9.8,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Mazda2Skyactiv-GEssence(2014).png",
     "creator": "Andu"
 }
