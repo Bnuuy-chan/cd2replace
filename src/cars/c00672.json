@@ -1,6 +1,6 @@
 {
     "carID": "c00672",
-    "cr": 150,
+    "cr": 148,
     "make": "Lancia",
     "model": "Beta Scorpion",
     "modelYear": 1976,
@@ -22,7 +22,7 @@
     "fuelType": "Petrol",
     "mra": 48.65,
     "ola": 66.67,
-    "description": "The slower Beta sibling America got. Card by Andu",
+    "description": "The slower Beta sibling America got.",
      "333TopSpeed": 112,
     "3330to60": 12,
     "333Handling": 71,
@@ -38,6 +38,6 @@
     "699TopSpeed": 117,
     "6990to60": 10.7,
     "699Handling": 77,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LanciaBetaScorpion(1976).png",
     "creator": "Andu"
 }
