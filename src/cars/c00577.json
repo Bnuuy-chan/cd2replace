@@ -1,6 +1,6 @@
 {
     "carID": "c00577",
-    "cr": 290,
+    "cr": 286,
     "make": "Isuzu",
     "model": "Impulse XS",
     "modelYear": 1990,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 54.8,
     "ola": 68.4,
-    "description": "Back when Isuzu was selling more trucks than cars in the USA. Card by Andu.",
+    "description": "Back when Isuzu was selling more trucks than cars in the USA.",
      "333TopSpeed": 124,
     "3330to60": 8.6,
     "333Handling": 76,
@@ -40,6 +40,6 @@
     "699TopSpeed": 129,
     "6990to60": 7.7,
     "699Handling": 82,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/IsuzuImpulseXS(1990).png",
     "creator": "Andu"
 }
