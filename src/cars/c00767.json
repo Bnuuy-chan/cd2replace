@@ -1,6 +1,6 @@
 {
     "carID": "c00767",
-    "cr": 270,
+    "cr": 272,
     "make": "Mazda",
     "model": "MX-5",
     "modelYear": 1990,
@@ -42,6 +42,6 @@
     "699TopSpeed": 125,
     "6990to60": 7.8,
     "699Handling": 82,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MazdaMX-5(1990).png",
     "creator": "Andu"
 }
