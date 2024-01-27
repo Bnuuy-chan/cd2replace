@@ -1,6 +1,6 @@
 {
     "carID": "c00561",
-    "cr": 340,
+    "cr": 335,
     "make": "Hyundai",
     "model": "Ioniq Electric",
     "modelYear": 2020,
@@ -25,7 +25,7 @@
     "fuelType": "Electric",
     "mra": 45.64,
     "ola": 83.4,
-    "description": "",
+    "description": "Don't call it a Prius or else it will explode on ya...",
      "333TopSpeed": 113,
     "3330to60": 8.2,
     "333Handling": 74,
@@ -41,6 +41,6 @@
     "699TopSpeed": 118,
     "6990to60": 7.3,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HyundaiIoniqElectric(2020).png",
     "creator": "Andu"
 }
