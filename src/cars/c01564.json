@@ -1,6 +1,6 @@
 {
     "carID": "c01564",
-    "cr": 370,
+    "cr": 365,
     "make": "Infiniti",
     "model": "G20",
     "modelYear": 1990,
@@ -24,7 +24,7 @@
     "fuelType": "Petrol",
     "mra": 53.07,
     "ola": 80.71,
-    "description": "The second luxury sedan Infiniti to take on the old mighty german rivals. Card by Andu.",
+    "description": "The second luxury sedan Infiniti to take on the old mighty german rivals.",
      "333TopSpeed": 134,
     "3330to60": 8,
     "333Handling": 74,
@@ -40,6 +40,6 @@
     "699TopSpeed": 138,
     "6990to60": 7.1,
     "699Handling": 80,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/InfinitiG20.png",
     "creator": "Andu"
 }
