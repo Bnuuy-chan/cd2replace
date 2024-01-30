@@ -1,8 +1,8 @@
 {
     "carID": "c04503",
-    "cr": 280,
+    "cr": 278,
     "make": "Peugeot",
-    "model": "607 2.2 HDi FAP 135 S",
+    "model": "607 2.2 HDi FAP 135",
     "modelYear": 1999,
     "country": "FR",
     "topSpeed": 127,
@@ -24,7 +24,7 @@
     "mra": 48.66,
     "ola": 64.92,
     "description": "",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Peugeot6072.2HDiFAP135(1999).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 131, 

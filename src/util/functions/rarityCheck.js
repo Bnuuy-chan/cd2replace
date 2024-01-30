@@ -1,15 +1,18 @@
 "use strict";
 
 const bot = require("../../config/config.js");
-const { blackMarketEmojiID, mysticEmojiID, legendaryEmojiID, epicEmojiID, exoticEmojiID, standardEmojiID,
+const { blackMarketEmojiID, bossEmojiID, mysticEmojiID, legendaryEmojiID, epicEmojiID, exoticEmojiID, standardEmojiID,
     rareEmojiID, uncommonEmojiID, commonEmojiID } = require("../consts/consts.js");
 
 function rarityCheck(car, type) {
     if (type === "bm") {
         return bot.emojis.cache.get(blackMarketEmojiID);
     }
-    else if (car["cr"] > 999) { //mystic
-    return bot.emojis.cache.get(mysticEmojiID);
+    else if (car["cr"] > 1500) { //BOSS
+    return bot.emojis.cache.get(bossEmojiID);
+    }
+	    else if (car["cr"] > 999 && car["cr"] <= 1500) { //Mystic
+        return bot.emojis.cache.get(mysticEmojiID);
     }
     else if (car["cr"] > 849 && car["cr"] <= 999) { //leggie
         return bot.emojis.cache.get(legendaryEmojiID);

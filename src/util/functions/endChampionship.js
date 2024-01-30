@@ -6,7 +6,7 @@ const { currentEventsChannelID } = require("../consts/consts.js");
 const carNameGen = require("./carNameGen.js");
 const listRewards = require("./listRewards.js");
 const reqDisplay = require("./reqDisplay.js");
-const championshipModel = require("../models/championshipsSchema.js");
+const championshipModel = require("../../models/championshipsSchema.js");
 
 async function endChampionship(championship) {
     await championshipModel.deleteOne({ championshipID: championship.championshipID });

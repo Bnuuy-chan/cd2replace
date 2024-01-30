@@ -1,6 +1,6 @@
 {
     "carID": "c00916",
-    "cr": 400,
+    "cr": 396,
     "make": "Mitsubishi",
     "model": "Starion 2000 Turbo GSR-VR",
     "modelYear": 1987,
@@ -40,6 +40,6 @@
     "699TopSpeed": 121,
     "6990to60": 5.8,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiStarion2000TurboGSR-VR(1987).png",
     "creator": "Keanny"
 }

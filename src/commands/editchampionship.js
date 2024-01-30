@@ -36,7 +36,7 @@ module.exports = {
         "<championship name> regenopponents <random / filter>"
     ],
     args: 3,
-    category: "championships",
+    category: "Admin",
     description: "Edits an championship.",
     async execute(message, args) {
         const championships = await championshipModel.find();

@@ -1,8 +1,8 @@
 {
     "carID": "c04506",
-    "cr": 400,
+    "cr": 403,
     "make": "Peugeot",
-    "model": "607 3.0 V6 Executive",
+    "model": "607 3.0 V6",
     "modelYear": 1999,
     "country": "FR",
     "topSpeed": 148,
@@ -24,7 +24,7 @@
     "mra": 63.69,
     "ola": 79.27,
     "description": "Peugeot's last take on an executive car.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Peugeot6073.0V6(1999).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 152, 

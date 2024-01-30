@@ -1,6 +1,6 @@
 {
     "carID": "c00057",
-    "cr": 30,
+    "cr": 26,
     "make": "Aston Martin",
     "model": "Atom",
     "modelYear": 1939,
@@ -38,6 +38,6 @@
     "699TopSpeed": 102,
     "6990to60": 16.2,
     "699Handling": 59,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/AstonMartinAtom(1939).png",
     "creator": "Bnuuy"
 }

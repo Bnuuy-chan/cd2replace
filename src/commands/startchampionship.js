@@ -14,10 +14,10 @@ const championshipModel = require("../models/championshipsSchema.js");
 
 module.exports = {
     name: "startchampionship",
-    aliases: ["launchchampionship"],
+    aliases: ["launchchampionship", "schamp"],
     usage: ["<championship name>"],
     args: 1,
-    category: "Championships",
+    category: "Admin",
     description: "Starts an inactive championship.",
     async execute(message, args) {
         const championships = await championshipModel.find({ isActive: false });

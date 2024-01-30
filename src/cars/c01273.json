@@ -1,6 +1,6 @@
 {
     "carID": "c01273",
-    "cr": 850,
+    "cr": 851,
     "make": "Tesla",
     "model": "Model S Performance",
     "modelYear": 2019,
@@ -40,6 +40,6 @@
     "699TopSpeed": 169,
     "6990to60": 2,
     "699Handling": 92,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelSPerformance(2019).png",
     "creator": "Keanny"
 }

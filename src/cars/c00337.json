@@ -1,6 +1,6 @@
 {
     "carID": "c00337",
-    "cr": 510,
+    "cr": 505,
     "make": "De Tomaso",
     "model": "Pantera GT5",
     "modelYear": 1980,
@@ -40,6 +40,6 @@
     "699TopSpeed": 161,
     "6990to60": 4.6,
     "699Handling": 89,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/DeTomasoPanteraGT5(1980).png",
     "creator": "Keanny"
 }

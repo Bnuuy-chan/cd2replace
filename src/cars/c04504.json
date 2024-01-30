@@ -1,8 +1,8 @@
 {
     "carID": "c04504",
-    "cr": 340,
+    "cr": 343,
     "make": "Peugeot",
-    "model": "607 2.2 HDi FAP 170 SE",
+    "model": "607 2.2 HDi FAP 170",
     "modelYear": 2006,
     "country": "FR",
     "topSpeed": 139,
@@ -24,7 +24,7 @@
     "mra": 58.97,
     "ola": 72.33,
     "description": "",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Peugeot6072.2HDiFAP170(2006).png",
     "creator": "Crossfire",
 
     "333TopSpeed": 143, 

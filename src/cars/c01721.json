@@ -1,8 +1,8 @@
 {
     "carID": "c01721",
-    "cr": 340,
+    "cr": 335,
     "make": "Nissan",
-    "model": "Fairlady ZG",
+    "model": "Fairlady 240Z-G",
     "modelYear": 1971,
     "country": "JP",
     "topSpeed": 131,
@@ -42,6 +42,6 @@
     "699TopSpeed": 139,
     "6990to60": 6.4,
     "699Handling": 81,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanFairlady240Z-G(1971).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00953",
-    "cr": 420,
+    "cr": 417,
     "make": ["Nissan", "Nismo"],
     "model": "Sentra Nismo",
     "modelYear": 2017,
@@ -47,6 +47,6 @@
     "6990to60": 6.1,
     "699Handling": 88,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanSentraNismo(2017).png",
     "creator": "Keanny"
 }

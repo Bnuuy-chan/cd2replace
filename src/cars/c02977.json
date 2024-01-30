@@ -1,12 +1,12 @@
 {
     "carID": "c02977",
-    "cr": 840,
+    "cr": 855,
     "make": "Lamborghini",
-    "model": "Murcielago LP640",
+    "model": "Murcielago LP640-4",
     "modelYear": 2006,
     "country": "IT",
     "topSpeed": 211,
-    "0to60": 3.4,
+    "0to60": 3.3,
     "handling": 89,
     "driveType": "4WD",
     "tyreType": "Performance",
@@ -21,29 +21,29 @@
     "abs": true,
     "enginePos": "Middle",
     "fuelType": "Petrol",
-    "mra": 80.1,
+    "mra": 83.54,
     "ola": 80.48,
     "description": "",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
-    "creator": "Spence",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniMurcielagoLP640-4(2006).png",
+    "creator": "Bnuuy",
 
 "333TopSpeed": 213, 
-"3330to60": 3.2, 
+"3330to60": 3.1, 
 "333Handling": 92,
 
 "666TopSpeed": 216, 
-"6660to60": 3.1, 
+"6660to60": 3, 
 "666Handling": 95,
 
 "699TopSpeed": 216, 
-"6990to60": 2.9, 
+"6990to60": 2.8, 
 "699Handling": 99,
 
 "969TopSpeed": 218, 
-"9690to60": 3.1, 
+"9690to60": 3, 
 "969Handling": 99,
 
 "996TopSpeed": 218, 
-"9960to60": 2.9, 
+"9960to60": 2.8, 
 "996Handling": 95
 }

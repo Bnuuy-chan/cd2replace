@@ -1,6 +1,6 @@
 {
     "carID": "c00522",
-    "cr": 230,
+    "cr": 234,
     "make": "Honda",
     "model": "City Turbo",
     "modelYear": 1982,
@@ -40,6 +40,6 @@
     "699TopSpeed": 117,
     "6990to60": 8.2,
     "699Handling": 77,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HondaCityTurbo(1982).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00914",
-    "cr": 380,
+    "cr": 382,
     "make": "Mitsubishi",
     "model": "Starion 2000 Turbo GSR-III",
     "modelYear": 1984,
@@ -40,6 +40,6 @@
     "699TopSpeed": 121,
     "6990to60": 5.9,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiStarion2000TurboGSR-III(1984).png",
     "creator": "Keanny"
 }

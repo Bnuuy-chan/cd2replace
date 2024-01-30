@@ -11,7 +11,7 @@ module.exports = {
     aliases: ["scr"],
     usage: ["<player name> <championship name> <round>"],
     args: 3,
-    category: "Championships",
+    category: "Admin",
     description: "Sets a player's round progress in an championship to whatever.",
     async execute(message, args) {
         if (message.mentions.users.first()) {

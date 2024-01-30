@@ -1,6 +1,6 @@
 {
     "carID": "c01881",
-    "cr": 480,
+    "cr": 482,
     "make": "Toyota",
     "model": "Century GRMN",
     "modelYear": 2018,
@@ -45,6 +45,6 @@
     "6990to60": 4.8,
     "699Handling": 80,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ToyotaCenturyGRMN(2018).png",
     "creator": "Keanny"
 }

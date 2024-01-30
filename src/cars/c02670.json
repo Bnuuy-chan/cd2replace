@@ -1,6 +1,6 @@
 {
     "carID": "c02670",
-    "cr": 744,
+    "cr": 674,
     "make": "Alfa Romeo",
     "model": "8C Competizione Concept",
     "modelYear": 2003,
@@ -14,7 +14,7 @@
     "isPrize": false,
 	
     "weight": 1500,
-    "gc": "Medium",
+    "gc": "Low",
     "seatCount": 2,
     "bodyStyle": "Coupe",
     "tcs": true,

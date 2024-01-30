@@ -57,7 +57,7 @@ const weatherVars = {
             "Performance": 0,
             "All-Surface": 0,
             "Off-Road": 0,
-            "Slick": 0,
+            "Slick": 20,
             "Drag": 250
         }
     },
@@ -222,6 +222,7 @@ const trophyEmojiID = "1162882347499262094";
 const glofEmojiID = "967031943222923335";
 const packEmojiID = "966972920687652885";
 const blackMarketEmojiID = "1162936880048898059";
+const bossEmojiID = "1162881924453371935";
 const mysticEmojiID = "1162882081005764668";
 const legendaryEmojiID = "1162882065017081897";
 const epicEmojiID = "1162882032347644025";
@@ -258,6 +259,7 @@ module.exports = {
     glofEmojiID,
     packEmojiID,
     blackMarketEmojiID,
+	bossEmojiID,
     mysticEmojiID,
     legendaryEmojiID,
     epicEmojiID,

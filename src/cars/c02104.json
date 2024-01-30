@@ -1,6 +1,6 @@
 {
     "carID": "c02104",
-    "cr": 10,
+    "cr": 67,
     "make": "BMW",
     "model": "1602 Elektro-Antrieb",
     "modelYear": 1972,
@@ -38,6 +38,6 @@
     "699TopSpeed": 79,
     "6990to60": 19.3,
     "699Handling": 63,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMW1602Elektro-Antrieb(1972).png",
     "creator": "Bnuuy"
 }

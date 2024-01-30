@@ -1,6 +1,6 @@
 {
     "carID": "c01701",
-    "cr": 590,
+    "cr": 588,
     "make": ["MZR Roadsports", "Datsun", "Nissan"],
     "model": "240Z Sport Design",
     "modelYear": 2019,
@@ -45,6 +45,6 @@
     "6990to60": 4.4,
     "699Handling": 87,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MZRRoadsports240ZSportsDesign(2017).png",
     "creator": "Keanny"
 }

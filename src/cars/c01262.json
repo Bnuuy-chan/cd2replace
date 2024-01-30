@@ -1,6 +1,6 @@
 {
     "carID": "c01262",
-    "cr": 640,
+    "cr": 639,
     "make": "Tesla",
     "model": "Model S 85",
     "modelYear": 2012,
@@ -41,6 +41,6 @@
     "699TopSpeed": 147,
     "6990to60": 4.3,
     "699Handling": 87,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelS85(2012).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c01898",
-    "cr": 250,
+    "cr": 252,
     "make": "Toyota",
     "model": "FCV Concept",
     "modelYear": 2013,
@@ -42,6 +42,6 @@
     "699TopSpeed": 115,
     "6990to60": 8.7,
     "699Handling": 74,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ToyotaFCVConcept(2013).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00696",
-    "cr": 650,
+    "cr": 652,
     "make": "Lexus",
     "model": "LC 500 Convertible",
     "modelYear": 2020,
@@ -40,6 +40,6 @@
     "699TopSpeed": 174,
     "6990to60": 4.1,
     "699Handling": 92,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LexusLC500Convertible(2020).png",
     "creator": "Connor"
 }

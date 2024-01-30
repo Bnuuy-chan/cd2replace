@@ -1,6 +1,6 @@
 {
     "carID": "c02035",
-    "cr": 900,
+    "cr": 903,
     "make": "Lamborghini",
     "model": "Urus",
     "modelYear": 2018,
@@ -45,6 +45,6 @@
 "996TopSpeed": 198,
 "9960to60": 2.8,
 "996Handling": 96,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniUrus(2018).png",
     "creator": "Bnuuy"
 }

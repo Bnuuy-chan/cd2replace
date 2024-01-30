@@ -1,6 +1,6 @@
 {
     "carID": "c04496",
-    "cr": 900,
+    "cr": 903,
     "make": ["MTM", "Audi"],
     "model": "TT BiMoto",
     "modelYear": 2001,
@@ -25,7 +25,7 @@
     "mra": 88.88,
     "ola": 81.25,
     "description": "Twin engined Audi TT which broke the record on the Papenburg test track.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MTMTTBiMoto(2007).png",
     "creator": "Connor",
 
     "333TopSpeed": 247,

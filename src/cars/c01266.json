@@ -1,6 +1,6 @@
 {
     "carID": "c01266",
-    "cr": 820,
+    "cr": 821,
     "make": "Tesla",
     "model": "Model S P100D",
     "modelYear": 2016,
@@ -40,6 +40,6 @@
     "699TopSpeed": 169,
     "6990to60": 2.1,
     "699Handling": 89,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelSP100D(2016).png",
     "creator": "Keanny"
 }

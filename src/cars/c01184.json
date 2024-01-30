@@ -1,6 +1,6 @@
 {
     "carID": "c01184",
-    "cr": 780,
+    "cr": 782,
     "make": ["Startech", "Tesla"],
     "model": "Model 3 Performance",
     "modelYear": 2020,
@@ -45,6 +45,6 @@
     "6990to60": 2.8,
     "699Handling": 95,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/StartechModel3Performance(2020).png",
     "creator": "Keanny"
 }

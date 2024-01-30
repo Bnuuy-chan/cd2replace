@@ -1,6 +1,6 @@
 {
     "carID": "c00538",
-    "cr": 300,
+    "cr": 304,
     "make": "Honda",
     "model": "Fit EV",
     "modelYear": 2013,
@@ -40,6 +40,6 @@
     "699TopSpeed": 102,
     "6990to60": 7.3,
     "699Handling": 78,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HondaFitEV(2013).png",
     "creator": "Keanny"
 }

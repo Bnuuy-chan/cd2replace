@@ -1,6 +1,6 @@
 {
     "carID": "c01280",
-    "cr": 790,
+    "cr": 785,
     "make": "Tesla",
     "model": "Model X P90D",
     "modelYear": 2016,
@@ -40,6 +40,6 @@
     "699TopSpeed": 162,
     "6990to60": 2.9,
     "699Handling": 87,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelXP90D(2016).png",
     "creator": "Keanny"
 }

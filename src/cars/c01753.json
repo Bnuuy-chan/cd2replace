@@ -1,8 +1,8 @@
 {
     "carID": "c01753",
-    "cr": 550,
+    "cr": 547,
     "make": "Nissan",
-    "model": "Leaf All-Wheel Control Test Car",
+    "model": "Leaf All-Wheel-Control Test Car",
     "modelYear": 2019,
     "country": "JP",
     "topSpeed": 116,
@@ -45,6 +45,6 @@
     "6990to60": 4.8,
     "699Handling": 78,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanLeafAll-Wheel-ControlTestCar(2019).png",
     "creator": "Keanny"
 }

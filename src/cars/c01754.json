@@ -1,6 +1,6 @@
 {
     "carID": "c01754",
-    "cr": 370,
+    "cr": 366,
     "make": "Nissan",
     "model": "Leaf AT-EV",
     "modelYear": 2017,
@@ -45,6 +45,6 @@
     "6990to60": 8.6,
     "699Handling": 78,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanLeafAT-EV(2017).png",
     "creator": "Keanny"
 }

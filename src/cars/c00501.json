@@ -1,6 +1,6 @@
 {
     "carID": "c00501",
-    "cr": 650,
+    "cr": 649,
     "make": "GMC",
     "model": "Syclone",
     "modelYear": 1991,
@@ -41,6 +41,6 @@
     "699TopSpeed": 134,
     "6990to60": 4.3,
     "699Handling": 81,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/GMCSyclone(1991).png",
     "creator": "Keanny"
 }

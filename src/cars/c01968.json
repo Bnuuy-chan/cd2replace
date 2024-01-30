@@ -1,8 +1,8 @@
 {
     "carID": "c01968",
-    "cr": 950,
+    "cr": 945,
     "make": "BMW",
-    "model": "M5 Competition M Drivers Package",
+    "model": "M5 Competition M Performance Package",
     "modelYear": 2018,
     "country": "DE",
     "topSpeed": 190,
@@ -38,6 +38,6 @@
     "699TopSpeed": 195,
     "6990to60": 2.6,
     "699Handling": 100,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMWM5CompetitionMPerformancePackage(2018).png",
     "creator": "Bnuuy"
 }

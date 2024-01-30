@@ -1,6 +1,6 @@
 {
     "carID": "c01034",
-    "cr": 220,
+    "cr": 215,
     "make": "Plymouth",
     "model": "Conquest LE",
     "modelYear": 1984,
@@ -38,6 +38,6 @@
     "699TopSpeed": 126,
     "6990to60": 8.6,
     "699Handling": 79,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/PlymouthConquestLE(1984).png",
     "creator": "Keanny"
 }

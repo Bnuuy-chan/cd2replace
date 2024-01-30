@@ -2,7 +2,7 @@
     "carID": "c02029",
     "cr": 600,
     "make": "Lamborghini",
-    "model": "LM002 Evoluzione Paris-Dakar",
+    "model": "LM002 Dakar",
     "modelYear": 1988,
     "country": "IT",
     "topSpeed": 135,
@@ -38,6 +38,6 @@
     "699TopSpeed": 143,
     "6990to60": 5.7,
     "699Handling": 74,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniLM002Dakar(1988).png",
     "creator": "Bnuuy"
 }

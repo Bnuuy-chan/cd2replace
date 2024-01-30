@@ -1,11 +1,11 @@
 {
     "carID": "c01532",
-    "cr": 320,
+    "cr": 317,
     "make": [
         "Datsun",
         "Nissan"
     ],
-    "model": "280ZX Turbo",
+    "model": "280ZX Turbo T-Roof",
     "modelYear": 1981,
     "country": "JP",
     "topSpeed": 130,
@@ -44,6 +44,6 @@
     "699TopSpeed": 138,
     "6990to60": 6.4,
     "699Handling": 79,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Datsun280ZXTurboT-Roof(1981).png",
     "creator": "Keanny"
 }

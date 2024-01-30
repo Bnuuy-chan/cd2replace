@@ -1,6 +1,6 @@
 {
     "carID": "c01284",
-    "cr": 700,
+    "cr": 699,
     "make": "Tesla",
     "model": "Roadster 1.5 Standard",
     "modelYear": 2007,
@@ -40,6 +40,6 @@
     "699TopSpeed": 131,
     "6990to60": 3.6,
     "699Handling": 92,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaRoadster1.5Standard(2007).png",
     "creator": "Keanny"
 }

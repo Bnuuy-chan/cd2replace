@@ -13,7 +13,7 @@ module.exports = {
     aliases: ["newchampionship"],
     usage: ["<number of rounds> <championship name>"],
     args: 2,
-    category: "Championships",
+    category: "Admin",
     description: "Creates a championship with the name of your choice.",
     async execute(message, args) {
         const championships = await championshipModel.find();

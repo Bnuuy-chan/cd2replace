@@ -1,6 +1,6 @@
 {
     "carID": "c01882",
-    "cr": 250,
+    "cr": 252,
     "make": "Toyota",
     "model": "Century Royal",
     "modelYear": 2006,
@@ -45,6 +45,6 @@
     "6990to60": 8.1,
     "699Handling": 71,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ToyotaCenturyRoyal(2006).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c01244",
-    "cr": 680,
+    "cr": 683,
     "make": "Swift Engineering",
     "model": "DB-1",
     "modelYear": 1983,
@@ -41,6 +41,6 @@
     "699TopSpeed": 128,
     "6990to60": 3.9,
     "699Handling": 107,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/SwiftEngineeringDB-1(1983).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00910",
-    "cr": 180,
+    "cr": 178,
     "make": "Mitsubishi",
     "model": "Starion 2000 GX",
     "modelYear": 1982,
@@ -38,6 +38,6 @@
     "699TopSpeed": 121,
     "6990to60": 9.6,
     "699Handling": 79,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiStarion2000GX(1982).png",
     "creator": "Keanny"
 }

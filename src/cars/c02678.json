@@ -1,9 +1,9 @@
 {
     "carID": "c02678",
-    "cr": 260,
+    "cr": 263,
     "make": "Citroen",
-    "model": "DS3 1.6 HDi 92",
-    "modelYear": 2010,
+    "model": "DS3 1.6 HDi 90 FAP",
+    "modelYear": 2009,
     "country": "FR",
     "topSpeed": 112,
     "0to60": 11.2,
@@ -24,7 +24,7 @@
     "mra": 42.8,
     "ola": 65.84,
     "description": "",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/CitroenDS31.6HDi90FAP(2009.png",
     "creator": "Keanny",
 
 "333TopSpeed": 117, 

@@ -1,8 +1,8 @@
 {
     "carID": "c00165",
-    "cr": 180,
+    "cr": 184,
     "make": "BMW",
-    "model": "507 Series II 3.70:1",
+    "model": "507 Series II",
     "modelYear": 1957,
     "country": "DE",
     "topSpeed": 123,
@@ -38,6 +38,6 @@
     "699TopSpeed": 131,
     "6990to60": 9.1,
     "699Handling": 71,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/BMW507SeriesII(1957).png",
     "creator": "Bnuuy"
 }

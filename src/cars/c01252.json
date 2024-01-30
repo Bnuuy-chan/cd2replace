@@ -1,6 +1,6 @@
 {
     "carID": "c01252",
-    "cr": 630,
+    "cr": 628,
     "make": "Tesla",
     "model": "Model 3 Mid Range",
     "modelYear": 2018,
@@ -40,6 +40,6 @@
     "699TopSpeed": 147,
     "6990to60": 4.4,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModel3MidRange(2018).png",
     "creator": "Keanny"
 }

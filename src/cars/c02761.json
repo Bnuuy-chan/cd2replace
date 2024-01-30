@@ -1,8 +1,8 @@
 {
     "carID": "c02761",
-    "cr": 490,
+    "cr": 487,
     "make": "Citroen",
-    "model": "Revolte",
+    "model": "REVOLTe",
     "modelYear": 2009,
     "country": "FR",
     "topSpeed": 140,
@@ -24,7 +24,7 @@
     "mra": 72.73,
     "ola": 85.71,
     "description": "The modern day 2CV which also gave birth to the Survolt.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/CitroenREVOLTe(2009).png",
     "creator": "Keanny",
 
 "333TopSpeed": 144, 

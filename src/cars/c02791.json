@@ -1,8 +1,8 @@
 {
     "carID": "c02791",
-    "cr": 630,
-    "make": ["Mercedes-AMG", "Mercedes-Benz"],
-    "model": "R 63 4MATIC",
+    "cr": 626,
+    "make": ["Mercedes-Benz", "Mercedes-AMG"],
+    "model": "R 63 AMG 4MATIC",
     "modelYear": 2007,
     "country": "DE",
     "topSpeed": 155,
@@ -24,7 +24,7 @@
     "mra": 75.81,
     "ola": 80.85,
     "description": "The closest we've got to a fast food secret menu order of the automotive world. Why this was made is beyond all of us, but hey, we ain't complaining.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Mercedes-BenzR63AMG4MATIC(2007).png",
     "creator": "Keanny",
 
     "333TopSpeed": 158, 

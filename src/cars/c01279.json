@@ -1,6 +1,6 @@
 {
     "carID": "c01279",
-    "cr": 820,
+    "cr": 815,
     "make": "Tesla",
     "model": "Model X P100D",
     "modelYear": 2016,
@@ -40,6 +40,6 @@
     "699TopSpeed": 162,
     "6990to60": 2.6,
     "699Handling": 88,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelXP100D(2016).png",
     "creator": "Keanny"
 }

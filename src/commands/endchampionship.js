@@ -12,7 +12,7 @@ module.exports = {
     aliases: ["removechampionship", "rmvchampionship"],
     usage: ["<championship name>"],
     args: 1,
-    category: "Championships",
+    category: "Admin",
     description: "Ends an ongoing Championship.",
     async execute(message, args) {
         const championships = await championshipModel.find();
@@ -20,7 +20,7 @@ module.exports = {
         await new Promise(resolve => resolve(search(message, championshipName, championships, "championships")))
             .then(async (response) => {
                 if (!Array.isArray(response)) return;
-                await endEvent(...response);
+                await endChampionship(...response);
             })
             .catch(error => {
                 throw error;

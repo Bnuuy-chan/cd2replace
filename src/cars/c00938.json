@@ -1,6 +1,6 @@
 {
     "carID": "c00938",
-    "cr": 800,
+    "cr": 804,
     "make": "Nissan",
     "model": "GT-R",
     "modelYear": 2007,
@@ -25,10 +25,10 @@
     "abs": true,
     "enginePos": "Front",
     "fuelType": "Petrol",
-    "mra": 70.38,
+    "mra": 73.38,
     "ola": 76.82,
     "description": "Godzilla returns with thunder, flames and fury.",
-     "333TopSpeed": 196,
+    "333TopSpeed": 196,
     "3330to60": 3.4,
     "333Handling": 91,
     "666TopSpeed": 198,
@@ -43,6 +43,6 @@
     "699TopSpeed": 198,
     "6990to60": 3.1,
     "699Handling": 98,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
-    "creator": "Havvy"
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanGTR(2007).png",
+    "creator": "Bnuuy"
 }

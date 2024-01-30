@@ -15,7 +15,7 @@ const championshipModel = require("../models/championshipsSchema.js");
 
 module.exports = {
     name: "championships",
-    aliases: ["c", "champ"],
+    aliases: ["c", "champ", "campaignlist", "storylist"],
     usage: ["[championship name]", "[championship name] [page number]"],
     args: 0,
     category: "Gameplay",

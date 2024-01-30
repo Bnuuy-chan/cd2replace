@@ -1,6 +1,6 @@
 {
     "carID": "c02299",
-    "cr": 300,
+    "cr": 299,
     "make": ["Datsun-Nissan", "Nissan", "Datsun"],
     "model": "2400 GT",
     "modelYear": 1971,
@@ -24,7 +24,7 @@
     "mra": 46.73,
     "ola": 60.21,
     "description": "One of the more unique Gen 3 Skylines.",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Datsun-Nissan2400GT(1971).png",
     "creator": "Bnuuy",
 
 "333TopSpeed": 122, 

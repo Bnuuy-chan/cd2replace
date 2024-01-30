@@ -1,6 +1,6 @@
 {
     "carID": "c02671",
-    "cr": 734,
+    "cr": 664,
     "make": "Alfa Romeo",
     "model": "8C Spider",
     "modelYear": 2008,
@@ -14,7 +14,7 @@
     "isPrize": false,
 	
     "weight": 1675,
-    "gc": "Medium",
+    "gc": "Low",
     "seatCount": 2,
     "bodyStyle": "Convertible",
     "tcs": true,

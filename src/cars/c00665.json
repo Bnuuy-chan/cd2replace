@@ -1,8 +1,8 @@
 {
     "carID": "c00665",
-    "cr": 830,
+    "cr": 831,
     "make": "Lamborghini",
-    "model": "Murcielago LP640 Roadster",
+    "model": "Murcielago LP640-4 Roadster",
     "modelYear": 2006,
     "country": "IT",
     "topSpeed": 205,
@@ -22,7 +22,7 @@
     "abs": true,
     "enginePos": "Middle",
     "fuelType": "Petrol",
-    "mra": 74.51,
+    "mra": 80,
     "ola": 82.49,
     "description": "The italian Bull with one of the most stupidest, most italian 'putting the top up' mechanism ever.",
      "333TopSpeed": 208,
@@ -40,6 +40,6 @@
     "699TopSpeed": 210,
     "6990to60": 2.9,
     "699Handling": 98,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
-    "creator": "Spence"
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/LamborghiniMurcielagoLP640-4Roadster(2006).png",
+    "creator": "Bnuuy"
 }

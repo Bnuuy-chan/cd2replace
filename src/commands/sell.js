@@ -78,27 +78,60 @@ module.exports = {
                     }
 
                     let money, upgMultiplier = parseInt(upgrade[0]) + parseInt(upgrade[1]) + parseInt(upgrade[2]);
-                    if (car["cr"] > 849) { //leggie-Mystic
-                        money = 200000 + (upgMultiplier * 4500);
-                    }
-                    else if (car["cr"] > 699 && car["cr"] <= 849) { //exotic
-                        money = 77500 + (upgMultiplier * 3750);
-                    }
-                    else if (car["cr"] > 549 && car["cr"] <= 699) { //epic
-                        money = 27500 + (upgMultiplier * 3000);
-                    }
-                    else if (car["cr"] > 399 && car["cr"] <= 549) { //rare
-                        money = 7500 + (upgMultiplier * 2250);
-                    }
-                    else if (car["cr"] > 249 && car["cr"] <= 399) { //uncommon
-                        money = 1000 + (upgMultiplier * 1500);
-                    }
-                    else if (car["cr"] > 99 && car["cr"] <= 249) { //common
-                        money = 500 + (upgMultiplier * 750);
-                    }
-                    else { //standard
-                        money = 200 + (upgMultiplier * 500);
-                    }
+            if (car["cr"] > 1500) { //BOSS 1500+
+                money = 0;
+            }
+			else if (car["cr"] > 1129 && car["cr"] <= 1499) { //1130-1499
+				money = 0;
+            }
+			else if (car["cr"] > 1099 && car["cr"] <= 1129) { //1100-1129
+				money = 0;
+            }
+            else if (car["cr"] > 1049 && car["cr"] <= 1099) { //1050-1099
+                money = 1400000;
+            }
+            else if (car["cr"] > 999 && car["cr"] <= 1049) { //1000-1049
+                money = 1080000;
+            }
+            else if (car["cr"] > 949 && car["cr"] <= 999) { //950-999
+                money = 640000;
+            }
+            else if (car["cr"] > 899 && car["cr"] <= 949) { //900-949
+                money = 400000;
+            }
+			else if (car["cr"] > 849 && car["cr"] <= 899) { //850-899
+				money = 300000;
+            }
+            else if (car["cr"] > 799 && car["cr"] <= 849) { //800-849
+                money = 180000;
+            }
+            else if (car["cr"] > 749 && car["cr"] <= 799) { //750-799
+                money = 120000;
+            }
+            else if (car["cr"] > 699 && car["cr"] <= 749) { //700-749
+                money = 80000;
+            }
+            else if (car["cr"] > 599 && car["cr"] <= 699) { //600-699
+                money = 72000;
+            }
+            else if (car["cr"] > 499 && car["cr"] <= 599) { //500-599
+                money = 40000;
+            }
+            else if (car["cr"] > 399 && car["cr"] <= 499) { //400-499
+                money = 30000;
+            }
+            else if (car["cr"] > 299 && car["cr"] <= 399) { //300-399
+                money = 16000;
+            }
+            else if (car["cr"] > 199 && car["cr"] <= 299) { //200-299
+                money = 12000;
+            }
+            else if (car["cr"] > 99 && car["cr"] <= 199) { //100-199
+                money = 6000;
+            }
+            else { //001-099
+                money = 4000;
+            }
                     money *= amount;
 
                     const confirmationMessage = new InfoMessage({

@@ -1,6 +1,6 @@
 {
     "carID": "c00912",
-    "cr": 390,
+    "cr": 391,
     "make": "Mitsubishi",
     "model": "Starion 2000 Turbo EX",
     "modelYear": 1987,
@@ -40,6 +40,6 @@
     "699TopSpeed": 144,
     "6990to60": 5.9,
     "699Handling": 83,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiStarion2000TurboEX(1987).png",
     "creator": "Keanny"
 }

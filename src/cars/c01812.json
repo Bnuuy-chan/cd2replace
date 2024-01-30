@@ -1,11 +1,11 @@
 {
     "carID": "c01812",
-    "cr": 160,
+    "cr": 164,
     "make": [
         "Pandora-Inc",
         "Honda"
     ],
-    "model": "S660 Demo Version II",
+    "model": "COMPETEC S660 Version II",
     "modelYear": 2017,
     "country": "JP",
     "topSpeed": 114,
@@ -45,6 +45,6 @@
     "699TopSpeed": 123,
     "6990to60": 9.4,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Pandora-IncCOMPETECS660VersionII(2017).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c02672",
-    "cr": 718,
+    "cr": 648,
     "make": "Alfa Romeo",
     "model": "8C Spider Concept",
     "modelYear": 2005,
@@ -14,7 +14,7 @@
     "isPrize": false,
 	
     "weight": 1625,
-    "gc": "Medium",
+    "gc": "Low",
     "seatCount": 2,
     "bodyStyle": "Convertible",
     "tcs": true,

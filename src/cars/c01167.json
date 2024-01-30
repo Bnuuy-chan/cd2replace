@@ -1,6 +1,6 @@
 {
     "carID": "c01167",
-    "cr": 270,
+    "cr": 268,
     "make": ["Sbarro", "Citroen"],
     "model": "GT-C1",
     "modelYear": 2006,
@@ -44,6 +44,6 @@
     "6990to60": 7.4,
     "699Handling": 85,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/SbarroGT-C1(2006).png",
     "creator": "Keanny"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c00906",
-    "cr": 770,
+    "cr": 768,
     "make": "Mitsubishi",
     "model": "MiEV Evolution",
     "modelYear": 2012,
@@ -45,6 +45,6 @@
     "9690to60": 3.4,
     "969Handling": 107,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiMiEVEvolution(2012).png",
     "creator": "Keanny"
 }

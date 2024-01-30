@@ -1,6 +1,6 @@
 {
     "carID": "c01765",
-    "cr": 490,
+    "cr": 485,
     "make": "Nissan",
     "model": "RE-LEAF",
     "modelYear": 2020,
@@ -45,6 +45,6 @@
     "6990to60": 6.5,
     "699Handling": 78,
 
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanRE-LEAF(2020).png",
     "creator": "Keanny"
 }

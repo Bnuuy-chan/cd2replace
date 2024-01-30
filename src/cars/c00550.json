@@ -1,6 +1,6 @@
 {
     "carID": "c00550",
-    "cr": 480,
+    "cr": 481,
     "make": "Honda",
     "model": "Prelude Type SH",
     "modelYear": 1996,
@@ -40,6 +40,6 @@
     "699TopSpeed": 148,
     "6990to60": 6.2,
     "699Handling": 88,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/HondaPreludeTypeSH(1996).png",
     "creator": "Keanny"
 }

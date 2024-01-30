@@ -1,8 +1,8 @@
 {
     "carID": "c01305",
-    "cr": 320,
+    "cr": 315,
     "make": "Toyota",
-    "model": "Corolla Sprinter Trueno GT Apex",
+    "model": "Corolla Sprinter Trueno GT-Apex",
     "modelYear": 1985,
     "country": "JP",
     "topSpeed": 125,
@@ -38,6 +38,6 @@
     "699TopSpeed": 133,
     "6990to60": 7.4,
     "699Handling": 85,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/ToyotaCorollaSprinterTruenoGT-Apex(1985).png",
     "creator": "Bnuuy"
 }

@@ -1,6 +1,6 @@
 {
     "carID": "c01270",
-    "cr": 830,
+    "cr": 827,
     "make": "Tesla",
     "model": "Model S P85D",
     "modelYear": 2014,
@@ -40,6 +40,6 @@
     "699TopSpeed": 165,
     "6990to60": 2.7,
     "699Handling": 90,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelSP85D(2014).png",
     "creator": "Keanny"
 }

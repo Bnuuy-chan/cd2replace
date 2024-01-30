@@ -1,6 +1,6 @@
 {
     "carID": "c00917",
-    "cr": 400,
+    "cr": 403,
     "make": "Mitsubishi",
     "model": "Starion 2600 Turbo GSR-VR",
     "modelYear": 1987,
@@ -41,6 +41,6 @@
     "699TopSpeed": 121,
     "6990to60": 5.6,
     "699Handling": 84,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/MitsubishiStarion2600TurboGSR-VR(1987).png",
     "creator": "Keanny"
 }

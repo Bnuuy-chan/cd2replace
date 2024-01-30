@@ -1,6 +1,6 @@
 {
     "carID": "c01854",
-    "cr": 430,
+    "cr": 432,
     "make": ["Top Fuel", "Honda"],
     "model": "S660 Type RRII",
     "modelYear": 2020,
@@ -24,7 +24,7 @@
     "mra": 69.47,
     "ola": 78.79,
     "description": "",
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TopFuelS660TypeRRII(2020).png",
     "creator": "Keanny",
     
     "333TopSpeed": 148,

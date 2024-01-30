@@ -1,6 +1,6 @@
 {
     "carID": "c01259",
-    "cr": 610,
+    "cr": 607,
     "make": "Tesla",
     "model": "Model S 60",
     "modelYear": 2016,
@@ -40,6 +40,6 @@
     "699TopSpeed": 138,
     "6990to60": 4.5,
     "699Handling": 85,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/TeslaModelS60(2016).png",
     "creator": "Keanny"
 }

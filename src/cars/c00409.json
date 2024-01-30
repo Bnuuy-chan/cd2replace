@@ -1,6 +1,6 @@
 {
     "carID": "c00409",
-    "cr": 240,
+    "cr": 238,
     "make": "Fiat",
     "model": "500e",
     "modelYear": 2013,
@@ -40,6 +40,6 @@
     "699TopSpeed": 99,
     "6990to60": 7.3,
     "699Handling": 78,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Fiat500e(2013).png",
     "creator": "Keanny"
 }

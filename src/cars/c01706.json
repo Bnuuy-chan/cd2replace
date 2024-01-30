@@ -1,6 +1,6 @@
 {
     "carID": "c01706",
-    "cr": 350,
+    "cr": 351,
     "make": "Nissan",
     "model": "300ZX Turbo",
     "modelYear": 1983,
@@ -41,6 +41,6 @@
     "699TopSpeed": 149,
     "6990to60": 6,
     "699Handling": 79,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Nissan300ZXTurbo(1983).png",
     "creator": "Keanny"
 }

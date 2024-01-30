@@ -1,6 +1,6 @@
 {
     "carID": "c01529",
-    "cr": 270,
+    "cr": 265,
     "make": [
         "Datsun",
         "Nissan"
@@ -46,6 +46,6 @@
     "699TopSpeed": 133,
     "6990to60": 7.1,
     "699Handling": 75,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/Datsun280Z(1975).png",
     "creator": "Keanny"
 }

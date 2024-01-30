@@ -1,7 +1,7 @@
 {
     "carID": "c01745",
-    "cr": 960,
-    "make": "Nissan",
+    "cr": 962,
+    "make": ["Nissan", "ItalDesign"],
     "model": "GTR-50 Concept by ItalDesign",
     "modelYear": 2018,
     "country": "JP",
@@ -20,8 +20,8 @@
     "abs": true,
     "enginePos": "Front",
     "fuelType": "Petrol",
-    "mra": 78.12,
-    "ola": 80,
+    "mra": 80,
+    "ola": 73.66,
     "description": "None.",
      "333TopSpeed": 208,
     "3330to60": 2.4,
@@ -38,6 +38,6 @@
     "699TopSpeed": 210,
     "6990to60": 2.1,
     "699Handling": 103,
-    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Placeholder.png",
+    "racehud": "https://file.garden/ZSrBMiDRyR84aPJp/Cards(normal)/0in/NissanGTR50ConceptbyItalDesign(2018).png",
     "creator": "Bnuuy"
 }
